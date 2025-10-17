@@ -1,0 +1,1727 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv source-info-name="IPTVBoss">
+  <channel id="Anime Vision.es1">
+    <display-name>Anime Vision (1080p)</display-name>
+    <icon src="https://images.open-epg.com/nologo.png"></icon>
+  </channel>
+  <channel id="Anime Vision Classics.es1">
+    <display-name>Anime Vision Classics (1080p)</display-name>
+    <icon src="https://images.open-epg.com/nologo.png"></icon>
+  </channel>
+  <programme start="20251016000003 +0000" stop="20251016003012 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Felicidad subjetiva</sub-title>
+    <desc>Tsubasa se rinde ante la evidencia de que su negativa a que su padre volverá a casarse no será aceptada, así que claudica y accede a conocer al hijo de su madrastra. Lo que no espera es que Kazuma, quien será su hermanastro, se presente ante ella como un punki con el pelo teñido de rubio y haga comentarios que le saquen de quicio, convirtiendo en un caos su primer encuentro. Sin embargo, cuando Tsubasa y Kazuma vuelven a coincidir por casualidad…</desc>
+    <episode-num system="xmltv_ns">0.12/26.</episode-num>
+  </programme>
+  <programme start="20251016003012 +0000" stop="20251016010016 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Aparentar / Ha pasado mucho tiempo</sub-title>
+    <desc>Episodio recopilatorio que resume como se conocieron Yukino y Arima, su transicion hasta establecerse como pareja y la sucesion de conflictos que resolvieron con sus compañeros de clase.</desc>
+    <episode-num system="xmltv_ns">0.13/26.</episode-num>
+  </programme>
+  <programme start="20251016010016 +0000" stop="20251016013018 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Ha pasado mucho tiempo / Lo que nos hace sentir una voz</sub-title>
+    <desc>Durante el periodo de vacaciones de verano Yukino y Arima deben permanecer separados temporalmente y durante una llamada de telefono Yukino nota un cambio en la voz de Arima que le perturba. Por otra parte, Asaba, que se aburre como una ostra sin la compañía de su amigo, decide pasarse por casa de Yukino y sus hermanas, lo que provoca un ataque de celos en el sobreprotector cabeza de familia de los Miyazawa…</desc>
+    <episode-num system="xmltv_ns">0.14/26.</episode-num>
+  </programme>
+  <programme start="20251016013018 +0000" stop="20251016020013 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Corazones unidos</sub-title>
+    <desc>Yukino visita junto a su familia a la casa de su abuelo materno. Allí, observa a traves de una foto de Miyako, su madre, que de joven eran prácticamente iguales. Los padres de Yukino son amigos de toda la vida y fue en la epoca en la que asistían al instituto cuando empezaron a salir, aproximadamente cuando tenían la misma edad que Yukino. El huerfano Hiroyuki, su padre, fue criado por su querido abuelo, pero en un momento clave de su juventud…</desc>
+    <episode-num system="xmltv_ns">0.15/26.</episode-num>
+  </programme>
+  <programme start="20251016020013 +0000" stop="20251016023030 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Kurumi enseña metodos para ligar</sub-title>
+    <desc>Kyosuke, Kurumi y Manami van a hacer la compra y coinciden con Madoka y Hikaru, que están probándose bañadores. Kyosuke se despista por un momento y Kurumi desaparece en cuanto le quita la vista de encima. Kyosuke y sus amigos comienzan a buscarla por toda la ciudad, pero entonces…</desc>
+    <episode-num system="xmltv_ns">0.8/48.</episode-num>
+  </programme>
+  <programme start="20251016023030 +0000" stop="20251016030048 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Un sueño premonitorio… Hikaru se muere</sub-title>
+    <desc>Kyosuke no se encuentra bien desde por la mañana a causa de un sueño que ha tenido en el que Hikaru muere. Al igual que le sucedía a su familia materna, Kyosuke posee la habilidad de tener sueños premonitorios. Todo parecía seguir su curso hasta que Hikaru se desmaya durante un partido de balonmano…</desc>
+    <episode-num system="xmltv_ns">0.9/48.</episode-num>
+  </programme>
+  <programme start="20251016030048 +0000" stop="20251016033105 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>No hagas sonar las campanas de boda</sub-title>
+    <desc>Durante un turno en el que Kyosuke echa una mano en el ABCB, Madoka recibe una llamada de telefono de una voz masculina, a quien responde con entusiasmo. Despues, Madoka se ausenta durante 3 días y cuando reaparece por clase, lleva un anillo en su mano izquierda. Ignorando a Kyosuke, Madoka entra en un coche que se dirige a una iglesia…</desc>
+    <episode-num system="xmltv_ns">0.10/48.</episode-num>
+  </programme>
+  <programme start="20251016033105 +0000" stop="20251016040123 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¿Estudiar en America? Adios, Madoka</sub-title>
+    <desc>Los padres de Madoka son unos violinistas de fama internacional. Un día, se publica un artículo en el periodico un titular que reza que la familia Ayukawa va a instalarse definitivamente en Estados Unidos. Consternado, Kyosuke pregunta al dueño del ABCB sobre la noticia y descubre que apenas quedan 3 días para la mudanza, que tendrá lugar el proximo domingo…</desc>
+    <episode-num system="xmltv_ns">0.11/48.</episode-num>
+  </programme>
+  <programme start="20251016040123 +0000" stop="20251016043014 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Testamento del padre. Rememoracion de los días lejanos</sub-title>
+    <desc>Al acudir a su entrenamiento, Yusuke se encuentra a un Raizen desorientado por el hambre que no le reconoce y le ataca. Tras una feroz batalla, Raizen vuelve en sí y le revela el motivo por el que ya no come carne humana.</desc>
+    <episode-num system="xmltv_ns">3.102/18.</episode-num>
+  </programme>
+  <programme start="20251016043014 +0000" stop="20251016050011 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Una propuesta inesperada. Transformacion del Mundo de la Magia</sub-title>
+    <desc>Yusuke visita a Yomi para informarle de la muerte de Raizen y hacerle una propuesta inesperada: un torneo de artes marciales cuyo ganador será coronado Rey del Mundo de la Magia. Pero Yomi desestima la propuesta…</desc>
+    <episode-num system="xmltv_ns">3.103/18.</episode-num>
+  </programme>
+  <programme start="20251016050011 +0000" stop="20251016053016 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>El Torneo del Mundo de la Magia. ¡Empiezan las eliminatorias!</sub-title>
+    <desc>El Torneo del Mundo de la Magia finalmente da comienzo y, dado el número de participantes, las eliminatorias se convierten en una feroz batalla. Tanto Yusuke como los antiguos rivales de Raizen se clasifican uno detrás de otro.</desc>
+    <episode-num system="xmltv_ns">3.104/18.</episode-num>
+  </programme>
+  <programme start="20251016053016 +0000" stop="20251016060015 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Yomi y Shura! Lucha entre padre e hijo</sub-title>
+    <desc>Las eliminatorias del Torneo del Mundo de la Magia enfrentan a Yomi contra su hijo Shura. A pesar de que Shura ha sido entrenado por Yomi en persona, todos sus ataques son repelidos por la Barrera Arcana de su progenitor.</desc>
+    <episode-num system="xmltv_ns">3.105/18.</episode-num>
+  </programme>
+  <programme start="20251016060015 +0000" stop="20251016063009 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Una verdad de hace 50 años. La identidad de Naraku</sub-title>
+    <desc>Kagome regresa al pasado y el grupo descubre que Naraku fue uno de los que engañaron a Kikyo y a Inuyasha para enfrentarlos hace cincuenta años.</desc>
+    <episode-num system="xmltv_ns">0.20/167.</episode-num>
+  </programme>
+  <programme start="20251016063009 +0000" stop="20251016070018 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Una sonrisa malefica. El alma errante de Kikyo</sub-title>
+    <desc>Inuyasha y sus amigos descubren que Kikyo sobrevivio a la caída del precipicio y ha estado robando almas de fallecidos para permanecer con vida.</desc>
+    <episode-num system="xmltv_ns">0.21/167.</episode-num>
+  </programme>
+  <programme start="20251016070018 +0000" stop="20251016073011 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>La voz de Kagome y el beso de Kikyo</sub-title>
+    <desc>Kikyo atrapa a Kagome en un árbol y despues intenta atraer a Inuyasha al infierno con ella. La voz de Kagome consigue devolver a la realidad a Inuyasha.</desc>
+    <episode-num system="xmltv_ns">0.22/167.</episode-num>
+  </programme>
+  <programme start="20251016073011 +0000" stop="20251016080024 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>¡Aparece Sango, la exterminadora de demonios!</sub-title>
+    <desc>Sango es una exterminadora de demonios que ha sido engañada por Naraku para que crea que el culpable de la muerte de su familia es Inuyasha.</desc>
+    <episode-num system="xmltv_ns">0.23/167.</episode-num>
+  </programme>
+  <programme start="20251016080024 +0000" stop="20251016083000 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Felicidad subjetiva</sub-title>
+    <desc>Tsubasa se rinde ante la evidencia de que su negativa a que su padre volverá a casarse no será aceptada, así que claudica y accede a conocer al hijo de su madrastra. Lo que no espera es que Kazuma, quien será su hermanastro, se presente ante ella como un punki con el pelo teñido de rubio y haga comentarios que le saquen de quicio, convirtiendo en un caos su primer encuentro. Sin embargo, cuando Tsubasa y Kazuma vuelven a coincidir por casualidad…</desc>
+    <episode-num system="xmltv_ns">0.12/26.</episode-num>
+  </programme>
+  <programme start="20251016083000 +0000" stop="20251016090024 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Aparentar / Ha pasado mucho tiempo</sub-title>
+    <desc>Episodio recopilatorio que resume como se conocieron Yukino y Arima, su transicion hasta establecerse como pareja y la sucesion de conflictos que resolvieron con sus compañeros de clase.</desc>
+    <episode-num system="xmltv_ns">0.13/26.</episode-num>
+  </programme>
+  <programme start="20251016090024 +0000" stop="20251016093018 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Ha pasado mucho tiempo / Lo que nos hace sentir una voz</sub-title>
+    <desc>Durante el periodo de vacaciones de verano Yukino y Arima deben permanecer separados temporalmente y durante una llamada de telefono Yukino nota un cambio en la voz de Arima que le perturba. Por otra parte, Asaba, que se aburre como una ostra sin la compañía de su amigo, decide pasarse por casa de Yukino y sus hermanas, lo que provoca un ataque de celos en el sobreprotector cabeza de familia de los Miyazawa…</desc>
+    <episode-num system="xmltv_ns">0.14/26.</episode-num>
+  </programme>
+  <programme start="20251016093018 +0000" stop="20251016100012 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Corazones unidos</sub-title>
+    <desc>Yukino visita junto a su familia a la casa de su abuelo materno. Allí, observa a traves de una foto de Miyako, su madre, que de joven eran prácticamente iguales. Los padres de Yukino son amigos de toda la vida y fue en la epoca en la que asistían al instituto cuando empezaron a salir, aproximadamente cuando tenían la misma edad que Yukino. El huerfano Hiroyuki, su padre, fue criado por su querido abuelo, pero en un momento clave de su juventud…</desc>
+    <episode-num system="xmltv_ns">0.15/26.</episode-num>
+  </programme>
+  <programme start="20251016100012 +0000" stop="20251016103029 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Kurumi enseña metodos para ligar</sub-title>
+    <desc>Kyosuke, Kurumi y Manami van a hacer la compra y coinciden con Madoka y Hikaru, que están probándose bañadores. Kyosuke se despista por un momento y Kurumi desaparece en cuanto le quita la vista de encima. Kyosuke y sus amigos comienzan a buscarla por toda la ciudad, pero entonces…</desc>
+    <episode-num system="xmltv_ns">0.8/48.</episode-num>
+  </programme>
+  <programme start="20251016103029 +0000" stop="20251016110047 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Un sueño premonitorio… Hikaru se muere</sub-title>
+    <desc>Kyosuke no se encuentra bien desde por la mañana a causa de un sueño que ha tenido en el que Hikaru muere. Al igual que le sucedía a su familia materna, Kyosuke posee la habilidad de tener sueños premonitorios. Todo parecía seguir su curso hasta que Hikaru se desmaya durante un partido de balonmano…</desc>
+    <episode-num system="xmltv_ns">0.9/48.</episode-num>
+  </programme>
+  <programme start="20251016110047 +0000" stop="20251016113104 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>No hagas sonar las campanas de boda</sub-title>
+    <desc>Durante un turno en el que Kyosuke echa una mano en el ABCB, Madoka recibe una llamada de telefono de una voz masculina, a quien responde con entusiasmo. Despues, Madoka se ausenta durante 3 días y cuando reaparece por clase, lleva un anillo en su mano izquierda. Ignorando a Kyosuke, Madoka entra en un coche que se dirige a una iglesia…</desc>
+    <episode-num system="xmltv_ns">0.10/48.</episode-num>
+  </programme>
+  <programme start="20251016113104 +0000" stop="20251016120122 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¿Estudiar en America? Adios, Madoka</sub-title>
+    <desc>Los padres de Madoka son unos violinistas de fama internacional. Un día, se publica un artículo en el periodico un titular que reza que la familia Ayukawa va a instalarse definitivamente en Estados Unidos. Consternado, Kyosuke pregunta al dueño del ABCB sobre la noticia y descubre que apenas quedan 3 días para la mudanza, que tendrá lugar el proximo domingo…</desc>
+    <episode-num system="xmltv_ns">0.11/48.</episode-num>
+  </programme>
+  <programme start="20251016120122 +0000" stop="20251016123022 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Testamento del padre. Rememoracion de los días lejanos</sub-title>
+    <desc>Al acudir a su entrenamiento, Yusuke se encuentra a un Raizen desorientado por el hambre que no le reconoce y le ataca. Tras una feroz batalla, Raizen vuelve en sí y le revela el motivo por el que ya no come carne humana.</desc>
+    <episode-num system="xmltv_ns">3.102/18.</episode-num>
+  </programme>
+  <programme start="20251016123022 +0000" stop="20251016130013 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Una propuesta inesperada. Transformacion del Mundo de la Magia</sub-title>
+    <desc>Yusuke visita a Yomi para informarle de la muerte de Raizen y hacerle una propuesta inesperada: un torneo de artes marciales cuyo ganador será coronado Rey del Mundo de la Magia. Pero Yomi desestima la propuesta…</desc>
+    <episode-num system="xmltv_ns">3.103/18.</episode-num>
+  </programme>
+  <programme start="20251016130013 +0000" stop="20251016133010 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>El Torneo del Mundo de la Magia. ¡Empiezan las eliminatorias!</sub-title>
+    <desc>El Torneo del Mundo de la Magia finalmente da comienzo y, dado el número de participantes, las eliminatorias se convierten en una feroz batalla. Tanto Yusuke como los antiguos rivales de Raizen se clasifican uno detrás de otro.</desc>
+    <episode-num system="xmltv_ns">3.104/18.</episode-num>
+  </programme>
+  <programme start="20251016133010 +0000" stop="20251016140015 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Yomi y Shura! Lucha entre padre e hijo</sub-title>
+    <desc>Las eliminatorias del Torneo del Mundo de la Magia enfrentan a Yomi contra su hijo Shura. A pesar de que Shura ha sido entrenado por Yomi en persona, todos sus ataques son repelidos por la Barrera Arcana de su progenitor.</desc>
+    <episode-num system="xmltv_ns">3.105/18.</episode-num>
+  </programme>
+  <programme start="20251016140015 +0000" stop="20251016143006 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>La conspiracion de Naraku se viene abajo</sub-title>
+    <desc>Sango combate contra Inuyasha y sus amigos para vengar la muerte de sus padres, pero finalmente descubre que el verdadero culpable es Naraku.</desc>
+    <episode-num system="xmltv_ns">0.24/167.</episode-num>
+  </programme>
+  <programme start="20251016143006 +0000" stop="20251016150016 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El secreto de la Esfera de los Cuatro Espíritus por fin revelado</sub-title>
+    <desc>Sango lleva a Inuyasha y compañía hasta la cueva donde fue creada La Esfera de los Cuatro Espíritus. Allí descubren el origen de la poderosa joya, en la que una antigua sacerdotisa encerro su alma en un intento de derrotar a los demonios.</desc>
+    <episode-num system="xmltv_ns">0.25/167.</episode-num>
+  </programme>
+  <programme start="20251016150016 +0000" stop="20251016153002 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El lago del malvado dios del agua</sub-title>
+    <desc>Inuyasha y sus compañeros llegan a una aldea víctima de una gran inundacion, al visitar el templo del dios del agua, esta deidad les hace frente y prueba ser invencible. ¿Pero es ese dios el que dice ser de verdad o es tan solo una nueva trampa?</desc>
+    <episode-num system="xmltv_ns">0.26/167.</episode-num>
+  </programme>
+  <programme start="20251016153002 +0000" stop="20251016160015 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Miroku cae en una peligrosa trampa</sub-title>
+    <desc>Miroku cae víctima del engaño de la súplica de una bella mujer que resulta ser un demonio-mantis. Herido, Miroku decide visitar a su padre adoptivo para que le cure con sus habilidades, pero se encuentra con que este ha sido poseido por un demonio. ¿Podrán Inuyasha y los demás salvar la situacion?</desc>
+    <episode-num system="xmltv_ns">0.27/167.</episode-num>
+  </programme>
+  <programme start="20251016160015 +0000" stop="20251016163012 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Idas y venidas</sub-title>
+    <desc>Tras recibir una carta de Arima, que continúa inmerso en el torneo intercolegial de kendo, Yukino continúa magnificando lo que siente por el. Y despues de una larga espera, por fin vuelven a reunirse, aunque Yukino siente que ha habido cambios en Arima, como que ahora es más alto y ha crecido en otros sentidos…</desc>
+    <episode-num system="xmltv_ns">0.16/26.</episode-num>
+  </programme>
+  <programme start="20251016163012 +0000" stop="20251016170003 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Evolucion</sub-title>
+    <desc>Arima ha sido rechazado y maltratado por sus familiares debido al odio que genero su desaparecido padre biologico. Hasta conocer a Yukino, la única energía positiva que recibía en su vida provenía de sus padres adoptivos, lo cual hace que se vuelque por completo en su relacion con Yukino. Se podría decir que demasiado incluso…</desc>
+    <episode-num system="xmltv_ns">0.17/26.</episode-num>
+  </programme>
+  <programme start="20251016170003 +0000" stop="20251016173014 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE I</sub-title>
+    <desc>Ha dado comienzo el segundo semestre y Yukino y todos los demás están ocupados preparándose para los exámenes y el festival escolar. Entretanto, se incorpora al instituto un nuevo estudiante Takeshi Tonami, venido de Okinawa. Para sorpresa de Tsubaki, Rika y Aya, el recien llegado comparte mismo nombre ¡¿con un antiguo compañero de clase?!</desc>
+    <episode-num system="xmltv_ns">0.18/26.</episode-num>
+  </programme>
+  <programme start="20251016173014 +0000" stop="20251016180003 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE II</sub-title>
+    <desc>Tonami, el estudiante recien incorporado al instituto, sufrio acoso por parte de Tsubaki por su obesidad durante la escuela primaria y los primeros años de secundaria. Con la firme determinacion de “evolucionar”, ha regresado a su vida como una persona completamente diferente. Por otro lado, Aya pide al grupo de Tsukino que actúen en el festival escolar interpretando la obra teatral que ha escrito, aunque…</desc>
+    <episode-num system="xmltv_ns">0.19/26.</episode-num>
+  </programme>
+  <programme start="20251016180003 +0000" stop="20251016183020 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Fijando la mirada, la gran transformacion de Hikaru</sub-title>
+    <desc>Por fin ha llegado el tan ansiado domingo. Lo que se suponía que iba a ser la cita perfecta se convierte en un día de servicios a la comunidad recogiendo basura en el parque. De repente, aparece una chica muy atractiva que embelesa a los presentes y resulta ser Hikaru. ¡¿Que diantres le ha sucedido para sufrir tal transformacion?!</desc>
+    <episode-num system="xmltv_ns">0.12/48.</episode-num>
+  </programme>
+  <programme start="20251016183020 +0000" stop="20251016190038 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Un sueño premonitorio: Madoka odia a los hombres debiles</sub-title>
+    <desc>“¡Eres tan debil, eres el peor!”. En la mañana del día de Tanabata, Kyosuke tiene un sueño en el que Madoka, representando a la princesa Orihime, dice que le odia. Kyosuke sale a correr y, al descubrir que Madoka entrena en un club de lucha libre femenina, decide tomar clases de karate bajo la tutela de Yuusaku, aunque acabará por aprender otra leccion…</desc>
+    <episode-num system="xmltv_ns">0.13/48.</episode-num>
+  </programme>
+  <programme start="20251016190038 +0000" stop="20251016193055 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>La decision de Madoka, poner fin al triángulo amoroso</sub-title>
+    <desc>Ante la pregunta de Kurumi y Manami sobre a quien prefiere, si a Madoka o a Hikaru, Kyosuke es incapaz de responder. Mientras tanto, Madoka, a quien Hikaru le consulta que le parece Kyosuke, decide permanecer en segundo plano por el bien de su amiga y rechaza ayudar al padre de los hermanos Kasuga con su exposicion de fotografías.</desc>
+    <episode-num system="xmltv_ns">0.14/48.</episode-num>
+  </programme>
+  <programme start="20251016193055 +0000" stop="20251016200113 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Lo creas o no, Madoka ha visto un OVNI</sub-title>
+    <desc>De vuelta el ABCB, Madoka y Kyosuke avistan un OVNI. Sin embargo, cuando Kyosuke descubre el misterio tras la aparicion del OVNI, se ve incapaz de confirmar la autenticidad del avistamiento. Como consecuencia, Madoka le tacha de mentiroso frente a todo el instituto.</desc>
+    <episode-num system="xmltv_ns">0.15/48.</episode-num>
+  </programme>
+  <programme start="20251016200113 +0000" stop="20251016203004 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Una lucha encarnizada! Los hombres se enfrentan por sus ilusiones</sub-title>
+    <desc>Tras el final de las eliminatorias, da comienzo la primera ronda del torneo. Toya, en el equipo de Yomi, se enfrenta a Kujo del equipo de Raizen con la intencion de derrotarle y tener la ocasion de volver a enfrentarse a Yusuke.</desc>
+    <episode-num system="xmltv_ns">3.106/18.</episode-num>
+  </programme>
+  <programme start="20251016203004 +0000" stop="20251016210019 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Kurama se despide de su pasado</sub-title>
+    <desc>Dividido entre sus dos personalidades, Kurama se ve obligado a transformarse en Zorro Espiritual para hacer frente a Shigure. Sin embargo, regresa a su forma de Shuichi Minamino por voluntad propia dispuesto a zanjar su pasado.</desc>
+    <episode-num system="xmltv_ns">3.107/18.</episode-num>
+  </programme>
+  <programme start="20251016210019 +0000" stop="20251016213008 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Confrontacion de Hiei y Mukuro</sub-title>
+    <desc>El enfrentamiento entre Hiei y Mukuro se intensifica con ambos cuestionándose las cadenas que les atan a su pasado. Ambos luchan ferozmente para liberarse de las cadenas del pasado y poner fin de una vez por todas al odio que sienten.</desc>
+    <episode-num system="xmltv_ns">3.108/18.</episode-num>
+  </programme>
+  <programme start="20251016213008 +0000" stop="20251016220020 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Esta es toda mi fuerza!</sub-title>
+    <desc>Comienza el combate entre Yusuke y Yomi, pero la diferencia de poder entre ambos resulta evidente desde el principio. Por algún motivo, Yusuke parece carecer de la energía y la determinacion necesarias para librar el combate.</desc>
+    <episode-num system="xmltv_ns">3.109/18.</episode-num>
+  </programme>
+  <programme start="20251016220020 +0000" stop="20251016223007 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>La conspiracion de Naraku se viene abajo</sub-title>
+    <desc>Sango combate contra Inuyasha y sus amigos para vengar la muerte de sus padres, pero finalmente descubre que el verdadero culpable es Naraku.</desc>
+    <episode-num system="xmltv_ns">0.24/167.</episode-num>
+  </programme>
+  <programme start="20251016223007 +0000" stop="20251016230013 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El secreto de la Esfera de los Cuatro Espíritus por fin revelado</sub-title>
+    <desc>Sango lleva a Inuyasha y compañía hasta la cueva donde fue creada La Esfera de los Cuatro Espíritus. Allí descubren el origen de la poderosa joya, en la que una antigua sacerdotisa encerro su alma en un intento de derrotar a los demonios.</desc>
+    <episode-num system="xmltv_ns">0.25/167.</episode-num>
+  </programme>
+  <programme start="20251016230013 +0000" stop="20251016233014 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El lago del malvado dios del agua</sub-title>
+    <desc>Inuyasha y sus compañeros llegan a una aldea víctima de una gran inundacion, al visitar el templo del dios del agua, esta deidad les hace frente y prueba ser invencible. ¿Pero es ese dios el que dice ser de verdad o es tan solo una nueva trampa?</desc>
+    <episode-num system="xmltv_ns">0.26/167.</episode-num>
+  </programme>
+  <programme start="20251016233014 +0000" stop="20251017000008 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Miroku cae en una peligrosa trampa</sub-title>
+    <desc>Miroku cae víctima del engaño de la súplica de una bella mujer que resulta ser un demonio-mantis. Herido, Miroku decide visitar a su padre adoptivo para que le cure con sus habilidades, pero se encuentra con que este ha sido poseido por un demonio. ¿Podrán Inuyasha y los demás salvar la situacion?</desc>
+    <episode-num system="xmltv_ns">0.27/167.</episode-num>
+  </programme>
+  <programme start="20251017000008 +0000" stop="20251017003010 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Idas y venidas</sub-title>
+    <desc>Tras recibir una carta de Arima, que continúa inmerso en el torneo intercolegial de kendo, Yukino continúa magnificando lo que siente por el. Y despues de una larga espera, por fin vuelven a reunirse, aunque Yukino siente que ha habido cambios en Arima, como que ahora es más alto y ha crecido en otros sentidos…</desc>
+    <episode-num system="xmltv_ns">0.16/26.</episode-num>
+  </programme>
+  <programme start="20251017003010 +0000" stop="20251017010006 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Evolucion</sub-title>
+    <desc>Arima ha sido rechazado y maltratado por sus familiares debido al odio que genero su desaparecido padre biologico. Hasta conocer a Yukino, la única energía positiva que recibía en su vida provenía de sus padres adoptivos, lo cual hace que se vuelque por completo en su relacion con Yukino. Se podría decir que demasiado incluso…</desc>
+    <episode-num system="xmltv_ns">0.17/26.</episode-num>
+  </programme>
+  <programme start="20251017010006 +0000" stop="20251017013011 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE I</sub-title>
+    <desc>Ha dado comienzo el segundo semestre y Yukino y todos los demás están ocupados preparándose para los exámenes y el festival escolar. Entretanto, se incorpora al instituto un nuevo estudiante Takeshi Tonami, venido de Okinawa. Para sorpresa de Tsubaki, Rika y Aya, el recien llegado comparte mismo nombre ¡¿con un antiguo compañero de clase?!</desc>
+    <episode-num system="xmltv_ns">0.18/26.</episode-num>
+  </programme>
+  <programme start="20251017013011 +0000" stop="20251017020015 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE II</sub-title>
+    <desc>Tonami, el estudiante recien incorporado al instituto, sufrio acoso por parte de Tsubaki por su obesidad durante la escuela primaria y los primeros años de secundaria. Con la firme determinacion de “evolucionar”, ha regresado a su vida como una persona completamente diferente. Por otro lado, Aya pide al grupo de Tsukino que actúen en el festival escolar interpretando la obra teatral que ha escrito, aunque…</desc>
+    <episode-num system="xmltv_ns">0.19/26.</episode-num>
+  </programme>
+  <programme start="20251017020015 +0000" stop="20251017023032 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Fijando la mirada, la gran transformacion de Hikaru</sub-title>
+    <desc>Por fin ha llegado el tan ansiado domingo. Lo que se suponía que iba a ser la cita perfecta se convierte en un día de servicios a la comunidad recogiendo basura en el parque. De repente, aparece una chica muy atractiva que embelesa a los presentes y resulta ser Hikaru. ¡¿Que diantres le ha sucedido para sufrir tal transformacion?!</desc>
+    <episode-num system="xmltv_ns">0.12/48.</episode-num>
+  </programme>
+  <programme start="20251017023032 +0000" stop="20251017030050 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Un sueño premonitorio: Madoka odia a los hombres debiles</sub-title>
+    <desc>“¡Eres tan debil, eres el peor!”. En la mañana del día de Tanabata, Kyosuke tiene un sueño en el que Madoka, representando a la princesa Orihime, dice que le odia. Kyosuke sale a correr y, al descubrir que Madoka entrena en un club de lucha libre femenina, decide tomar clases de karate bajo la tutela de Yuusaku, aunque acabará por aprender otra leccion…</desc>
+    <episode-num system="xmltv_ns">0.13/48.</episode-num>
+  </programme>
+  <programme start="20251017030050 +0000" stop="20251017033107 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>La decision de Madoka, poner fin al triángulo amoroso</sub-title>
+    <desc>Ante la pregunta de Kurumi y Manami sobre a quien prefiere, si a Madoka o a Hikaru, Kyosuke es incapaz de responder. Mientras tanto, Madoka, a quien Hikaru le consulta que le parece Kyosuke, decide permanecer en segundo plano por el bien de su amiga y rechaza ayudar al padre de los hermanos Kasuga con su exposicion de fotografías.</desc>
+    <episode-num system="xmltv_ns">0.14/48.</episode-num>
+  </programme>
+  <programme start="20251017033107 +0000" stop="20251017040125 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Lo creas o no, Madoka ha visto un OVNI</sub-title>
+    <desc>De vuelta el ABCB, Madoka y Kyosuke avistan un OVNI. Sin embargo, cuando Kyosuke descubre el misterio tras la aparicion del OVNI, se ve incapaz de confirmar la autenticidad del avistamiento. Como consecuencia, Madoka le tacha de mentiroso frente a todo el instituto.</desc>
+    <episode-num system="xmltv_ns">0.15/48.</episode-num>
+  </programme>
+  <programme start="20251017040125 +0000" stop="20251017043010 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Una lucha encarnizada! Los hombres se enfrentan por sus ilusiones</sub-title>
+    <desc>Tras el final de las eliminatorias, da comienzo la primera ronda del torneo. Toya, en el equipo de Yomi, se enfrenta a Kujo del equipo de Raizen con la intencion de derrotarle y tener la ocasion de volver a enfrentarse a Yusuke.</desc>
+    <episode-num system="xmltv_ns">3.106/18.</episode-num>
+  </programme>
+  <programme start="20251017043010 +0000" stop="20251017050010 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Kurama se despide de su pasado</sub-title>
+    <desc>Dividido entre sus dos personalidades, Kurama se ve obligado a transformarse en Zorro Espiritual para hacer frente a Shigure. Sin embargo, regresa a su forma de Shuichi Minamino por voluntad propia dispuesto a zanjar su pasado.</desc>
+    <episode-num system="xmltv_ns">3.107/18.</episode-num>
+  </programme>
+  <programme start="20251017050010 +0000" stop="20251017053024 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Confrontacion de Hiei y Mukuro</sub-title>
+    <desc>El enfrentamiento entre Hiei y Mukuro se intensifica con ambos cuestionándose las cadenas que les atan a su pasado. Ambos luchan ferozmente para liberarse de las cadenas del pasado y poner fin de una vez por todas al odio que sienten.</desc>
+    <episode-num system="xmltv_ns">3.108/18.</episode-num>
+  </programme>
+  <programme start="20251017053024 +0000" stop="20251017060109 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Esta es toda mi fuerza!</sub-title>
+    <desc>Comienza el combate entre Yusuke y Yomi, pero la diferencia de poder entre ambos resulta evidente desde el principio. Por algún motivo, Yusuke parece carecer de la energía y la determinacion necesarias para librar el combate.</desc>
+    <episode-num system="xmltv_ns">3.109/18.</episode-num>
+  </programme>
+  <programme start="20251017060109 +0000" stop="20251017063015 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>La conspiracion de Naraku se viene abajo</sub-title>
+    <desc>Sango combate contra Inuyasha y sus amigos para vengar la muerte de sus padres, pero finalmente descubre que el verdadero culpable es Naraku.</desc>
+    <episode-num system="xmltv_ns">0.24/167.</episode-num>
+  </programme>
+  <programme start="20251017063015 +0000" stop="20251017070006 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El secreto de la Esfera de los Cuatro Espíritus por fin revelado</sub-title>
+    <desc>Sango lleva a Inuyasha y compañía hasta la cueva donde fue creada La Esfera de los Cuatro Espíritus. Allí descubren el origen de la poderosa joya, en la que una antigua sacerdotisa encerro su alma en un intento de derrotar a los demonios.</desc>
+    <episode-num system="xmltv_ns">0.25/167.</episode-num>
+  </programme>
+  <programme start="20251017070006 +0000" stop="20251017073015 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El lago del malvado dios del agua</sub-title>
+    <desc>Inuyasha y sus compañeros llegan a una aldea víctima de una gran inundacion, al visitar el templo del dios del agua, esta deidad les hace frente y prueba ser invencible. ¿Pero es ese dios el que dice ser de verdad o es tan solo una nueva trampa?</desc>
+    <episode-num system="xmltv_ns">0.26/167.</episode-num>
+  </programme>
+  <programme start="20251017073015 +0000" stop="20251017080008 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Miroku cae en una peligrosa trampa</sub-title>
+    <desc>Miroku cae víctima del engaño de la súplica de una bella mujer que resulta ser un demonio-mantis. Herido, Miroku decide visitar a su padre adoptivo para que le cure con sus habilidades, pero se encuentra con que este ha sido poseido por un demonio. ¿Podrán Inuyasha y los demás salvar la situacion?</desc>
+    <episode-num system="xmltv_ns">0.27/167.</episode-num>
+  </programme>
+  <programme start="20251017080008 +0000" stop="20251017083020 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Idas y venidas</sub-title>
+    <desc>Tras recibir una carta de Arima, que continúa inmerso en el torneo intercolegial de kendo, Yukino continúa magnificando lo que siente por el. Y despues de una larga espera, por fin vuelven a reunirse, aunque Yukino siente que ha habido cambios en Arima, como que ahora es más alto y ha crecido en otros sentidos…</desc>
+    <episode-num system="xmltv_ns">0.16/26.</episode-num>
+  </programme>
+  <programme start="20251017083020 +0000" stop="20251017090020 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Evolucion</sub-title>
+    <desc>Arima ha sido rechazado y maltratado por sus familiares debido al odio que genero su desaparecido padre biologico. Hasta conocer a Yukino, la única energía positiva que recibía en su vida provenía de sus padres adoptivos, lo cual hace que se vuelque por completo en su relacion con Yukino. Se podría decir que demasiado incluso…</desc>
+    <episode-num system="xmltv_ns">0.17/26.</episode-num>
+  </programme>
+  <programme start="20251017090020 +0000" stop="20251017093014 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE I</sub-title>
+    <desc>Ha dado comienzo el segundo semestre y Yukino y todos los demás están ocupados preparándose para los exámenes y el festival escolar. Entretanto, se incorpora al instituto un nuevo estudiante Takeshi Tonami, venido de Okinawa. Para sorpresa de Tsubaki, Rika y Aya, el recien llegado comparte mismo nombre ¡¿con un antiguo compañero de clase?!</desc>
+    <episode-num system="xmltv_ns">0.18/26.</episode-num>
+  </programme>
+  <programme start="20251017093014 +0000" stop="20251017100015 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE II</sub-title>
+    <desc>Tonami, el estudiante recien incorporado al instituto, sufrio acoso por parte de Tsubaki por su obesidad durante la escuela primaria y los primeros años de secundaria. Con la firme determinacion de “evolucionar”, ha regresado a su vida como una persona completamente diferente. Por otro lado, Aya pide al grupo de Tsukino que actúen en el festival escolar interpretando la obra teatral que ha escrito, aunque…</desc>
+    <episode-num system="xmltv_ns">0.19/26.</episode-num>
+  </programme>
+  <programme start="20251017100015 +0000" stop="20251017103032 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Fijando la mirada, la gran transformacion de Hikaru</sub-title>
+    <desc>Por fin ha llegado el tan ansiado domingo. Lo que se suponía que iba a ser la cita perfecta se convierte en un día de servicios a la comunidad recogiendo basura en el parque. De repente, aparece una chica muy atractiva que embelesa a los presentes y resulta ser Hikaru. ¡¿Que diantres le ha sucedido para sufrir tal transformacion?!</desc>
+    <episode-num system="xmltv_ns">0.12/48.</episode-num>
+  </programme>
+  <programme start="20251017103032 +0000" stop="20251017110049 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Un sueño premonitorio: Madoka odia a los hombres debiles</sub-title>
+    <desc>“¡Eres tan debil, eres el peor!”. En la mañana del día de Tanabata, Kyosuke tiene un sueño en el que Madoka, representando a la princesa Orihime, dice que le odia. Kyosuke sale a correr y, al descubrir que Madoka entrena en un club de lucha libre femenina, decide tomar clases de karate bajo la tutela de Yuusaku, aunque acabará por aprender otra leccion…</desc>
+    <episode-num system="xmltv_ns">0.13/48.</episode-num>
+  </programme>
+  <programme start="20251017110049 +0000" stop="20251017113107 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>La decision de Madoka, poner fin al triángulo amoroso</sub-title>
+    <desc>Ante la pregunta de Kurumi y Manami sobre a quien prefiere, si a Madoka o a Hikaru, Kyosuke es incapaz de responder. Mientras tanto, Madoka, a quien Hikaru le consulta que le parece Kyosuke, decide permanecer en segundo plano por el bien de su amiga y rechaza ayudar al padre de los hermanos Kasuga con su exposicion de fotografías.</desc>
+    <episode-num system="xmltv_ns">0.14/48.</episode-num>
+  </programme>
+  <programme start="20251017113107 +0000" stop="20251017120124 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Lo creas o no, Madoka ha visto un OVNI</sub-title>
+    <desc>De vuelta el ABCB, Madoka y Kyosuke avistan un OVNI. Sin embargo, cuando Kyosuke descubre el misterio tras la aparicion del OVNI, se ve incapaz de confirmar la autenticidad del avistamiento. Como consecuencia, Madoka le tacha de mentiroso frente a todo el instituto.</desc>
+    <episode-num system="xmltv_ns">0.15/48.</episode-num>
+  </programme>
+  <programme start="20251017120124 +0000" stop="20251017123009 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Una lucha encarnizada! Los hombres se enfrentan por sus ilusiones</sub-title>
+    <desc>Tras el final de las eliminatorias, da comienzo la primera ronda del torneo. Toya, en el equipo de Yomi, se enfrenta a Kujo del equipo de Raizen con la intencion de derrotarle y tener la ocasion de volver a enfrentarse a Yusuke.</desc>
+    <episode-num system="xmltv_ns">3.106/18.</episode-num>
+  </programme>
+  <programme start="20251017123009 +0000" stop="20251017130020 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Kurama se despide de su pasado</sub-title>
+    <desc>Dividido entre sus dos personalidades, Kurama se ve obligado a transformarse en Zorro Espiritual para hacer frente a Shigure. Sin embargo, regresa a su forma de Shuichi Minamino por voluntad propia dispuesto a zanjar su pasado.</desc>
+    <episode-num system="xmltv_ns">3.107/18.</episode-num>
+  </programme>
+  <programme start="20251017130020 +0000" stop="20251017133012 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Confrontacion de Hiei y Mukuro</sub-title>
+    <desc>El enfrentamiento entre Hiei y Mukuro se intensifica con ambos cuestionándose las cadenas que les atan a su pasado. Ambos luchan ferozmente para liberarse de las cadenas del pasado y poner fin de una vez por todas al odio que sienten.</desc>
+    <episode-num system="xmltv_ns">3.108/18.</episode-num>
+  </programme>
+  <programme start="20251017133012 +0000" stop="20251017140010 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Esta es toda mi fuerza!</sub-title>
+    <desc>Comienza el combate entre Yusuke y Yomi, pero la diferencia de poder entre ambos resulta evidente desde el principio. Por algún motivo, Yusuke parece carecer de la energía y la determinacion necesarias para librar el combate.</desc>
+    <episode-num system="xmltv_ns">3.109/18.</episode-num>
+  </programme>
+  <programme start="20251017140010 +0000" stop="20251017143017 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El sufrimiento de Sango y la vida de Kohaku</sub-title>
+    <desc>Naraku manda a un joven muchacho a matar a Inuyasha y sus compañeros. Cuál será la sorpresa de Sango cuando descubra que quien les quiere eliminar es ¡su propio hermano Kohaku! ¿Podrá Naraku conseguir su objetivo esta vez o por el contrario Inuyasha y sus amigos saldrán victoriosos de la trampa?</desc>
+    <episode-num system="xmltv_ns">0.28/167.</episode-num>
+  </programme>
+  <programme start="20251017143017 +0000" stop="20251017150002 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>La Tessaiga es robada. Batalla final en el castillo de Naraku</sub-title>
+    <desc>Sango consigue hacer retroceder a Naraku hasta su fortaleza y allí se enfrentan. Mientras, Kohaku comieza a recuperarse y empieza a reconocer a su hermano. Inuyasha y los demás llegan a lugar de la batalla, que parece perdida ya que la Tetsusaiga obra en poder de Naraku. ¿Será capaz Inuyasha de dar la vuelta a la situacion?</desc>
+    <episode-num system="xmltv_ns">0.29/167.</episode-num>
+  </programme>
+  <programme start="20251017150002 +0000" stop="20251017153018 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>El amable y triste Jinenji</sub-title>
+    <desc>Buscando hierbas curativas, Kagome e Inuyasha dan con una aldea que ha sido atacada recientemente por un demonio que responde al nombre de Jinenji. Pero este, resulta ser no tan fiero como lo pintan las habladurías de dicha aldea, como así descubre Inuyasha al enfrentarse a el.</desc>
+    <episode-num system="xmltv_ns">0.30/167.</episode-num>
+  </programme>
+  <programme start="20251017153018 +0000" stop="20251017160047 +0000" channel="Anime Vision Classics.es1">
+    <title>Inuyasha</title>
+    <sub-title>Inuyasha y Kikyo caen en el miasma</sub-title>
+    <desc>Naraku se sorprende de ver que Kikyo todavía vive. Mientras piensa en ello, Inuyasha y los demás llegan a una aldea atacada por demonios para ver aparecer de repente a Kikyo, que lucha y vence a esos demonios. De sus cuerpos, las almas se levantan con la de Naraku, que tiene un nuevo cuerpo. En la confusion, Naraku secuestra a Kikyo y ambos desaparecen.</desc>
+    <episode-num system="xmltv_ns">0.31/167.</episode-num>
+  </programme>
+  <programme start="20251017160047 +0000" stop="20251017163022 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE III</sub-title>
+    <desc>Tonami le pide a Yukino que no revele que, en efecto, solía ir a clase junto a Tsubaki y las demás en el mismo colegio cuando era pequeño. Por otra parte, Yukino y Maho no están demasiado convencidas con representar la obra de Aya para el festival escolar, pero al leer el guion se les despejan las dudas y acaban por decidirse. Es entonces cuando Yukino…</desc>
+    <episode-num system="xmltv_ns">0.20/26.</episode-num>
+  </programme>
+  <programme start="20251017163022 +0000" stop="20251017170026 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE IV</sub-title>
+    <desc>Yukino lanza la propuesta de llevar a escena la obra de Aya de cara al festival cultural y convence de paso a Maho, que se mostraba reluctante inicialmente. Haciendo gala de sus habilidades para la negociacion, Yukino y los demás realizan grandes progresos en los preparativos para representar la funcion, como lograr que el profesor Kawashima les tutorice. Mientras tanto, Arima…</desc>
+    <episode-num system="xmltv_ns">0.21/26.</episode-num>
+  </programme>
+  <programme start="20251017170026 +0000" stop="20251017173016 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>14 DÍAS – PARTE V</sub-title>
+    <desc>Con el festival cultural cada vez más cerca, Yukino está hasta arriba de planes y reuniones para los preparativos de la obra de teatro. Tonami, quien ha jurado vengarse de Tsubaki, le confiesa que la odio. Yukino y toda la tropa quedan para reunirse un domingo, pero la conversacion pronto tira hacia otros derroteros. Maho se encuentra algo fuera de lugar y entonces…</desc>
+    <episode-num system="xmltv_ns">0.22/26.</episode-num>
+  </programme>
+  <programme start="20251017173016 +0000" stop="20251017180010 +0000" channel="Anime Vision Classics.es1">
+    <title>Kare Kano</title>
+    <sub-title>Una historia distinta</sub-title>
+    <desc>Yukino descarga sobre Arima su insatisfaccion acerca de los comentarios que circulan sobre el y sus momentos de gloria pasada. Ignorando el apoyo que le ofrece Arima, Yukino se dirige a la azotea del instituto, donde comienza a soñar como habría sido su vida si no se hubieran conocido. Lo que imagina en su mente resulta sorprendente…</desc>
+    <episode-num system="xmltv_ns">0.23/26.</episode-num>
+  </programme>
+  <programme start="20251017180010 +0000" stop="20251017183027 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>La tentacion del verano, de repente, una doble cita</sub-title>
+    <desc>Al fin han llegado las esperadas vacaciones de verano. Kyosuke, cuya mente se encuentra más en las nubes que de costumbre, decide ir a la piscina municipal con Hikaru y al mismo tiempo ir a estudiar con Madoka a la biblioteca. Kyosuke cree encontrar la solucion teletransportándose de un lugar a otro, pero aun así…</desc>
+    <episode-num system="xmltv_ns">0.16/48.</episode-num>
+  </programme>
+  <programme start="20251017183027 +0000" stop="20251017190045 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>El reto de Madoka, la legendaria ola gigante del fantasma de la playa</sub-title>
+    <desc>Kyosuke, Madoka, Hikaru y Yuusaku van a nadar a una isla apenas frecuentada por turistas, quizá ahuyentados por la legendaria ola gigante Big Monday. Por la noche, Kyosuke y sus amigos escuchan la historia del fantasma de una chica llamada Koto que les narra el anciano que regenta la posada en la que se hospedan…</desc>
+    <episode-num system="xmltv_ns">0.17/48.</episode-num>
+  </programme>
+  <programme start="20251017190045 +0000" stop="20251017193102 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Una experiencia para dos, la isla prohibida del amor</sub-title>
+    <desc>Kyosuke, Madoka, Hikaru y Yuusaku continúan sus vacaciones de verano en una isla del sur. Tras la hora de comer, los compañeros de viaje deciden echar una carrera en barco hacia otra recondita isla alejada de la costa. Sin embargo, el bote en el que navegan Madoka y Kyosuke es arrollado por la marea y acaban separados del resto del grupo…</desc>
+    <episode-num system="xmltv_ns">0.18/48.</episode-num>
+  </programme>
+  <programme start="20251017193102 +0000" stop="20251017200120 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Los campamentos de verano están llenos de peligros</sub-title>
+    <desc>Kyosuke participa en campamento de tenis y, aunque apenas había jugado a ese deporte antes, es transferido a la categoría más avanzada por culpa de los poderes de Kurumi. Por si fuera poco, Kitakata, uno de sus veteranos, le reta a un duelo. Para estar a la altura del encuentro, Kyosuke entrena en secreto con ayuda de Madoka…</desc>
+    <episode-num system="xmltv_ns">0.19/48.</episode-num>
+  </programme>
+  <programme start="20251017200120 +0000" stop="20251017203012 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Conclusion! El final de una lucha encarnizada.</sub-title>
+    <desc>La batalla entre Yusuke y Yomi sigue adelante sin que ninguno de los dos ceda ni un solo paso. Finalmente, ambos se golpean con todas sus fuerzas simultáneamente. ¿Cuál de los dos conseguirá ponerse antes en pie?</desc>
+    <episode-num system="xmltv_ns">3.110/18.</episode-num>
+  </programme>
+  <programme start="20251017203012 +0000" stop="20251017205801 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Para siempre!</sub-title>
+    <desc>Tras algún tiempo, todo el grupo se reúne en el templo de Genkai, quien tiene algo que comunicarles. Los únicos ausentes son Yusuke, que aún no ha regresado, y Hiei, que ha decidido permanecer en el Mundo de la Magia.</desc>
+    <episode-num system="xmltv_ns">3.111/18.</episode-num>
+  </programme>
+  <programme start="20251017205801 +0000" stop="20251017213043 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Isla Remanante</sub-title>
+    <desc>Veinte años despues del Gran Desastre, Conan y su abuelo rescatan a una chica misteriosa llamada Lana cuando esta llega a orillas de Isla Remanente. Conan no tarda en hacerse amigo de Lana y descubre su capacidad para comunicarse telepáticamente con los animales y que existen otras sociedades supervivientes en el mundo. Pronto, llega un grupo de mercenarios encabezados por Monsley que buscan a Lana en nombre del gobierno de Industria. El abuelo se las arregla para mantenerlos a raya con un arma antigua, pero cuando la situacion se tuerce, el queda mortalmente herido. Conan se apresura a salvar a Lana, pero la tripulacion de Monsley la captura y despega en su hidroavion. Conan salta sobre el ala, usando únicamente su arpon para no caerse.</desc>
+    <episode-num system="xmltv_ns">0.0/26.</episode-num>
+  </programme>
+  <programme start="20251017213043 +0000" stop="20251017220325 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>La partida</sub-title>
+    <desc>Conan ataca el avion de Monsley, pero se cae del ala antes de poder rescatar a Lana. Entonces, regresa a Isla Remanente, donde encuentra a su abuelo moribundo a causa de las heridas. El abuelo le cuenta a Conan la historia de como nacio y como la isla se convirtio en su hogar y luego lo insta a salir al mundo y comenzar una vida propia. Cuando su abuelo fallece, Conan se enfurece contra el destino. Mientras tanto, la tripulacion de Monsley llega al Barracuda, donde intercambia pullas con el Capitán Dyce y repara el Falco. De vuelta a Isla Remanente, Conan decide honrar el último deseo de su abuelo de que viera el nuevo mundo e hiciera amigos. Se le ocurre un plan para construir un bote y rescatar a Lana de Industria. Una vez el barco está listo, Conan se despide de su hogar y se hace a la mar.</desc>
+    <episode-num system="xmltv_ns">0.1/26.</episode-num>
+  </programme>
+  <programme start="20251017220325 +0000" stop="20251017223349 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¡Una autosugestion peligrosa! La transformacion de Kyosuke</sub-title>
+    <desc>Kyosuke, abrumado por las críticas que siempre recibe por ser tan indeciso, se mira fijamente en un espejo deseando tener la voluntad para poder ser más decidido y se autosugestiona, transformándose por completo. Haciendo uso indebido de sus poderes sobrenaturales, se vuelve muy popular entre las chicas y se comporta como una persona diferente…</desc>
+    <episode-num system="xmltv_ns">0.24/48.</episode-num>
+  </programme>
+  <programme start="20251017223349 +0000" stop="20251017230413 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Kyosuke se convierte en niño, el acercamiento a Madoka</sub-title>
+    <desc>Tras discutir con Madoka, Kyosuke se reencuentra con su primo Kazuya, que posee poderes telepáticos. Sin verlo venir, Kyosuke se golpea en la cabeza con Kazuya y sus cuerpos se intercambian, resultando que su mente está atrapada en el cuerpo de un niño pequeño y su primo campa a sus anchas controlando su cuerpo de adolescente.</desc>
+    <episode-num system="xmltv_ns">0.25/48.</episode-num>
+  </programme>
+  <programme start="20251017230413 +0000" stop="20251017233437 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Madoka en el punto de mira, la demostracion de hombría de Kyosuke</sub-title>
+    <desc>Madoka se ha hecho unas heridas y Kyosuke va a visitarla. En su camino de vuelta a casa, Kyosuke se topa con un grupo de pandilleras que busca a Madoka y llega a la conclusion de que se lesiono en una pelea contra ellas. Kyosuke se dispone con determinacion a proteger a Madoka del asedio de las gamberras, pero tal vez…</desc>
+    <episode-num system="xmltv_ns">0.26/48.</episode-num>
+  </programme>
+  <programme start="20251017233437 +0000" stop="20251018000501 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Una decision peligrosa, la gran aventura de Manami</sub-title>
+    <desc>Manami cambia de forma de vestir súbitamente y adopta una moda más llamativa en su afán de encontrar a algún chico que le llame la atencion. Sin embargo, el grupo de pandilleras de las Escorpion Rojo se fijan en ella y la toman como una enemiga, aunque contará con el apoyo de unos aliados inesperados a lo largo del día.</desc>
+    <episode-num system="xmltv_ns">0.27/48.</episode-num>
+  </programme>
+  <programme start="20251018000501 +0000" stop="20251018003525 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>No llores, Jingoro, el celo del amor y la juventud</sub-title>
+    <desc>Kurumi y Manami empiezan a estar hartas de su gato Jingoro, que parece no hacerles caso y se fuga con más asiduidad de casa. Jingoro se comporta de forma anomala últimamente. ¿Quizá sea por la epoca de celo? Partiendo de esa idea, Kyosuke y sus amigos emprenden una operacion para encontrar pareja para Jingoro, aunque quizá…</desc>
+    <episode-num system="xmltv_ns">0.28/48.</episode-num>
+  </programme>
+  <programme start="20251018003525 +0000" stop="20251018010549 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>La historia de las hojas de los árboles, el episodio infernal del primer amor de Kurumi</sub-title>
+    <desc>Kurumi se propone tener una cita con Jun Hayami, miembro del equipo de fútbol y a quien admira en secreto. Sin embargo, Hayami por su parte se dedica a enviar cartas de amor a Madoka. Kyosuke se da cuenta de la situacion y decide comprobar cuáles son los verdaderos sentimientos de todos los implicados en el asunto…</desc>
+    <episode-num system="xmltv_ns">0.29/48.</episode-num>
+  </programme>
+  <programme start="20251018010549 +0000" stop="20251018013614 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Madoka y Yuusaku, la marcha de la fuga de los jovenes amantes</sub-title>
+    <desc>Yuusaku se planta frente a Madoka en su camino al instituto. ¿Que harán Kyosuke y los demás a continuacion de la repentina declaracion de Yuusaku a Madoka, con ramo de rosas rojas en mano, causando una gran conmocion entre sus compañeros de clase y siendo bombardeados a preguntas por todos aquellos que les rodean?</desc>
+    <episode-num system="xmltv_ns">0.30/48.</episode-num>
+  </programme>
+  <programme start="20251018013614 +0000" stop="20251018020638 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>El cumpleaños doble, Kyosuke hace un salto en el tiempo</sub-title>
+    <desc>A pesar de que es el cumpleaños de Kyosuke, nadie, incluida Madoka, parece haberse acordado de tan señalada fecha, lo que le enfurece. Sin embargo, lo que el desconoce es que todos sus conocidos se han confabulado para prepararle una fiesta sorpresa sin que se entere.</desc>
+    <episode-num system="xmltv_ns">0.31/48.</episode-num>
+  </programme>
+  <programme start="20251018020638 +0000" stop="20251018023702 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Extraña Madoka: 120% de sinceridad con unas setas</sub-title>
+    <desc>¡Yuju! Kyosuke, Madoka y los demás van de excursion a la montaña en busca de setas. Para la recolecta son divididos en parejas mixtas de chicos y chicas. El jefe del ABCB les relata una interesante historia acerca de una especie a la que llaman “la seta de la verdad”, que obliga a ser totalmente sincero a quien la come.</desc>
+    <episode-num system="xmltv_ns">0.32/48.</episode-num>
+  </programme>
+  <programme start="20251018023702 +0000" stop="20251018030726 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Raíces de infarto, Madoka en el misterioso pueblo</sub-title>
+    <desc>¡Madoka ha sido arrastrada por un torrente de agua! Kyosuke se zambulle en el río y nada con desespero hasta que finalmente consigue salvarla. Kyosuke se preocupa por la tez cada vez más pálida de Madoka, inconsciente en la cabaña en la que se refugian, deseando que no empeore y coja un resfriado e intenta hacerla entrar en calor...</desc>
+    <episode-num system="xmltv_ns">0.33/48.</episode-num>
+  </programme>
+  <programme start="20251018030726 +0000" stop="20251018033750 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Perversiones con cámara, el robot Kyosuke</sub-title>
+    <desc>“¡Nos han robado las braguitas!”, exclaman a gritos desde una residencia femenina. Resulta que el culpable es nada más y nada menos que Kyosuke, aunque sus ojos tienen una mirada diferente, como si anduviese hipnotizado. ¿Quien habrá conspirado en su contra? ¿A donde llevará el rastro de ropa interior que apunta hacia Kyosuke?</desc>
+    <episode-num system="xmltv_ns">0.34/48.</episode-num>
+  </programme>
+  <programme start="20251018033750 +0000" stop="20251018040814 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Adios, Kyosuke, los poderes sobrenaturales grabados en vídeo</sub-title>
+    <desc>“¿Como has podido engañarme? ¡Dejate de excusas!” grita Hikaru al tiempo que lanza un puñetazo a la mandíbula de Kyosuke. “Mira que confiar en este imbecil… Que idiota”, exclama Madoka. Se trata de un diálogo de la película “Poli de bandas” que Komatsu está rodando para un concurso escolar, pero ¿y si los poderes sobrenaturales de Kyosuke salieran a la luz?</desc>
+    <episode-num system="xmltv_ns">0.35/48.</episode-num>
+  </programme>
+  <programme start="20251018040814 +0000" stop="20251018043558 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡Aquí está! La tecnica de las castañas asadas</sub-title>
+    <desc>¡Desde que la abuela toco su punto de la “Lengua de Gato de Cuerpo Completo”, Ranma es incapaz de tocar el agua caliente y regresar a su forma de chico! Y por si fuera poco, el antídoto, la Píldora del Fenix, se encuentra en poder de la abuela.</desc>
+    <episode-num system="xmltv_ns">0.21/161.</episode-num>
+  </programme>
+  <programme start="20251018043558 +0000" stop="20251018050340 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡Aparece Mousse, el hombre del ataque del cisne!</sub-title>
+    <desc>Un buen día, aparece Mousse, un joven procedente de China que está perdidamente enamorado de Shampoo. Sin embargo, cuando Shampoo lo rechaza, Mousse desafía a un duelo a Ranma con Akane en juego.</desc>
+    <episode-num system="xmltv_ns">0.22/161.</episode-num>
+  </programme>
+  <programme start="20251018050340 +0000" stop="20251018053124 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡Explosion! La carrera de los muñecos de nieve</sub-title>
+    <desc>Ranma y sus amigos visitan a una pista de esquí. Allí se celebra la carrera de los muñecos de nieve de artes marciales como parte de los planes de la abuela. ¡El gran premio para el ganador es una cita con Shampoo! ¡Y lo que es más importante, la Píldora del Fenix se encuentra en su poder!</desc>
+    <episode-num system="xmltv_ns">0.23/161.</episode-num>
+  </programme>
+  <programme start="20251018053124 +0000" stop="20251018060020 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡P-Chan es secuestrado!</sub-title>
+    <desc>“¡P-chan ha desaparecido!”. Despues de que Akane se deje llevar por el pánico y lo busque por todas partes, ante ella aparece una hermosa chica llamada Azusa Shiratori con P-chan en los brazos. ¡Akane y Azusa deciden jugarse a P-chan en una competicion de patinaje artístico!</desc>
+    <episode-num system="xmltv_ns">0.24/161.</episode-num>
+  </programme>
+  <programme start="20251018060020 +0000" stop="20251018063308 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Isla Remanante</sub-title>
+    <desc>Veinte años despues del Gran Desastre, Conan y su abuelo rescatan a una chica misteriosa llamada Lana cuando esta llega a orillas de Isla Remanente. Conan no tarda en hacerse amigo de Lana y descubre su capacidad para comunicarse telepáticamente con los animales y que existen otras sociedades supervivientes en el mundo. Pronto, llega un grupo de mercenarios encabezados por Monsley que buscan a Lana en nombre del gobierno de Industria. El abuelo se las arregla para mantenerlos a raya con un arma antigua, pero cuando la situacion se tuerce, el queda mortalmente herido. Conan se apresura a salvar a Lana, pero la tripulacion de Monsley la captura y despega en su hidroavion. Conan salta sobre el ala, usando únicamente su arpon para no caerse.</desc>
+    <episode-num system="xmltv_ns">0.0/26.</episode-num>
+  </programme>
+  <programme start="20251018063308 +0000" stop="20251018070557 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>La partida</sub-title>
+    <desc>Conan ataca el avion de Monsley, pero se cae del ala antes de poder rescatar a Lana. Entonces, regresa a Isla Remanente, donde encuentra a su abuelo moribundo a causa de las heridas. El abuelo le cuenta a Conan la historia de como nacio y como la isla se convirtio en su hogar y luego lo insta a salir al mundo y comenzar una vida propia. Cuando su abuelo fallece, Conan se enfurece contra el destino. Mientras tanto, la tripulacion de Monsley llega al Barracuda, donde intercambia pullas con el Capitán Dyce y repara el Falco. De vuelta a Isla Remanente, Conan decide honrar el último deseo de su abuelo de que viera el nuevo mundo e hiciera amigos. Se le ocurre un plan para construir un bote y rescatar a Lana de Industria. Una vez el barco está listo, Conan se despide de su hogar y se hace a la mar.</desc>
+    <episode-num system="xmltv_ns">0.1/26.</episode-num>
+  </programme>
+  <programme start="20251018070557 +0000" stop="20251018073845 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>El primer amigo</sub-title>
+    <desc>Al navegar a traves del turbulento Canal del Este, Conan se queda sin agua potable. Entonces, descubre una isla llena de sustento, pero no tarda en chocar con un lugareño llamado Jimsy, dueño de la comida que Conan acaba de comerse. Jimsy destruye el bote de Conan a modo de represalia y los dos luchan, compiten y se insultan hasta descubrir los cimientos de una gran amistad. Más tarde, el Barracuda de Dyce atraca en el puerto y emplea a lugareños para extraer plástico en nombre de Industria. Conan toma prestada una de sus excavadoras y provoca el caos. Impresionado, Jimsy le ofrece su amistad. Con la esperanza de rescatar a Lana, Conan decide viajar de polizon a bordo del Barracuda cuando este regrese a Industria. Jimsy decide que a Conan le vendría bien contar con refuerzos y ambos se dirigen a nado hacia el barco.</desc>
+    <episode-num system="xmltv_ns">0.2/26.</episode-num>
+  </programme>
+  <programme start="20251018073845 +0000" stop="20251018081133 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Barracuda</sub-title>
+    <desc>Conan y Jimsy viajan de polizones a bordo del Barracuda, pero las payasadas de Jimsy en la cocina alertan a Dyce sobre su presencia. El Capitán decide darles 40 azotes como castigo, pero Jimsy borracho no puede encajar su mitad, lo que obliga a Conan a encajar todo el castigo. El arrepentimiento que siente al descubrir la sobria verdad lleva a Jimsy a cuidar a Conan para que recupere la salud y a asumir la tarea de nivelar el botín de plástico de la isla. El Barracuda se dirige a Industria y Conan recibe el mensaje de Teki de que Lana sigue viva.</desc>
+    <episode-num system="xmltv_ns">0.3/26.</episode-num>
+  </programme>
+  <programme start="20251018081133 +0000" stop="20251018084421 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Industria</sub-title>
+    <desc>Despues de un largo viaje, el Barracuda atraca en Industria. El plan de Conan para salvar a Lana se frustra cuando Dongoros los pone a el y a Jimsy a trabajar descargando el envío de plástico. Despues de atacar a Monsley cuando esta viene de visita, Conan acaba encerrado en el calabozo. En una audiencia con el Alto Consejo, Dyce choca con el Jefe Lepka de Industria por su fallido secuestro de Lana y acaba suspendido por traer a Conan y Jimsy a la ciudad sin permiso. Cuando Lana se niega a cooperar en el interrogatorio, Lepka la amenaza. Kuzu aborda el Barracuda para arrestar a Conan, pero Jimsy lo ayuda a escapar del bergantín. La consecuente persecucion conduce a Conan hasta las entrañas de la fábrica de pan de Industria y pronto encuentra la celda de Lana. La pareja se reúne, pero sus problemas no han hecho más que comenzar.</desc>
+    <episode-num system="xmltv_ns">0.4/26.</episode-num>
+  </programme>
+  <programme start="20251018084421 +0000" stop="20251018091710 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>La rebelion de Dyce</sub-title>
+    <desc>Conan y Lana se reúnen y escapan bajo la Torre Triángulo. Mientras tanto, Dyce descubre las verdaderas intenciones de Lepka y esto le lleva a rebelarse. Mientras atraviesan los túneles subterráneos bajo Industria, Conan y Lana descubren una de las naves de combate que acabaron con el Viejo Mundo. Lana se da cuenta de que esta es la razon por la que el Profesor Lao se ha negado a ayudar a Lepka y se ha ocultado. Finalmente, vuelven a capturar a la pareja y ambos hacen frente a otro interrogatorio, pero Conan incapacita a Lepka antes de que la tripulacion de Monsley le encierre. Dyce regresa al Barracuda y convence a sus hombres para que lo ayuden a rescatar a Lana y devolverla a High Harbor. Conan observa tras las rejas como el Capitán se lleva a toda prisa a Lana al Barracuda.</desc>
+    <episode-num system="xmltv_ns">0.5/26.</episode-num>
+  </programme>
+  <programme start="20251018091710 +0000" stop="20251018094958 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Persecucion</sub-title>
+    <desc>Mientras Conan está atrapado en una celda de Industria, Dyce escapa con Lana hasta el Barracuda. Los hombres de Lepka lo persiguen, pero el Capitán zarpa y desaparece en medio de una espesa niebla. Lana está furiosa con el por haber abandonado a Conan. En otra parte, Monsley insta a Conan a unirse a Industria y Lepka entra en conflicto con el Consejo para conseguir la energía necesaria para capturar a Dyce. La niebla se disipa y Lepka envía a Monsley con el Falco, pero Conan escapa y se infiltra a bordo antes del despegue. Lepka toma el mando del Gunboat y su tripulacion para tratar de recuperar a Lana y Dyce. Mientras tanto, aún escondidos en la Bahía de Industria, Dyce y su tripulacion planean una forma de escapar a la luz de la luna. Jimsy conoce a Lana y promete cuidarla. Dyce organiza una fiesta privada con la esperanza de levantar el ánimo de Lana, pero no obtiene el resultado esperado. La tripulacion de Monsley sigue la pista del Barracuda y Conan trata de escapar hacia el barco, pero las mareas parecen estar literalmente en su contra.</desc>
+    <episode-num system="xmltv_ns">0.6/26.</episode-num>
+  </programme>
+  <programme start="20251018094958 +0000" stop="20251018102839 +0000" channel="Anime Vision Classics.es1">
+    <title>Conan, el niño del futuro</title>
+    <sub-title>Huida</sub-title>
+    <desc>Conan pierde el Barracuda y queda a la deriva en el mar. Dyce ata a Lana a la proa del barco con la esperanza de protegerse del fuego de Lepka. Pero cuando de todos modos el Gunboat de Industria lanza un ataque sorpresa, Dyce anuncia la retirada. Entonces, Conan intercepta el barco mientras Lana se libera y roba un bote salvavidas. La pareja escapa de Dyce, pero Lepka ordena a sus hombres que hundan el bote salvavidas (sin saber que Lana está a bordo) y se apodera del Barracuda. El bote salvavidas es destruido, pero Conan y Lana escapan por poco. La capacidad de Conan para contener la respiracion se pone a prueba cuando queda atrapado en el fondo del mar. Despues de que Lana le ayude a escapar, Conan los lleva a nado hasta una isla repleta de máquinas de guerra abandonadas. El abuelo de Lana entabla contacto psíquico con ella y la pareja se adentra en el desierto para ir a su encuentro.</desc>
+    <episode-num system="xmltv_ns">0.7/26.</episode-num>
+  </programme>
+  <programme start="20251018102839 +0000" stop="20251018110015 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>Bribones descarriados 2ª parte</sub-title>
+    <desc>El plan de robar el cargamento de oro de la nave del Shogunato no sale como estaba previsto y Mugen acaba a la deriva en medio del mar. Mientras tanto, un segundo plan guardado en secreto sigue su curso sin que nadie se de cuenta.</desc>
+    <episode-num system="xmltv_ns">0.13/26.</episode-num>
+  </programme>
+  <programme start="20251018110015 +0000" stop="20251018113044 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>Botín engañoso</sub-title>
+    <desc>Tras encontrar un misterioso botín en el río, Mugen y Jin se apresuran a ir al burdel más cercano. Una trama de falsificacion de dinero y la ninja más sexy del Shogunato les proporcionarán una noche que jamás olvidarán.</desc>
+    <episode-num system="xmltv_ns">0.14/26.</episode-num>
+  </programme>
+  <programme start="20251018113044 +0000" stop="20251018120013 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>Canciones de cuna para los perdidos 1ª parte</sub-title>
+    <desc>Tras separar sus caminos, Jin hace frente a un antiguo conocido que regresa en busca de venganza, Mugen trata de dar caza a un atacante furtivo y Fuu es rescatada de morir ahogada por un misterioso arquero llamado Okuru.</desc>
+    <episode-num system="xmltv_ns">0.15/26.</episode-num>
+  </programme>
+  <programme start="20251018120013 +0000" stop="20251018123009 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>Canciones de cuna para los perdidos 2ª parte</sub-title>
+    <desc>Debido a un malentendido, Mugen es atacado por un grupo de hombres que persiguen a un hombre llamado Okuru, responsable de haber convertido su aldea en cenizas, que se oculta en la montaña de la muerte y el renacimiento.</desc>
+    <episode-num system="xmltv_ns">0.16/26.</episode-num>
+  </programme>
+  <programme start="20251018123009 +0000" stop="20251018130024 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>La guerra de las palabras</sub-title>
+    <desc>Tras llegar a Hiroshima, Jin debe cumplir una promesa relacionada con una banda que ha cambiado las espadas por los graffitis. Por su parte, Mugen aprenderá a leer y utilizará este conocimiento para conquistar un castillo.</desc>
+    <episode-num system="xmltv_ns">0.17/26.</episode-num>
+  </programme>
+  <programme start="20251018130024 +0000" stop="20251018133030 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>Union blasfema</sub-title>
+    <desc>Fuu se acerca un poco más al samurai que huele como los girasoles al dar refugio a una joven que es perseguida por su fe cristiana. Mientras, Mugen y Jin encuentran a un justiciero que es el supuesto nieto de Francisco Javier.</desc>
+    <episode-num system="xmltv_ns">0.18/26.</episode-num>
+  </programme>
+  <programme start="20251018133030 +0000" stop="20251018140017 +0000" channel="Anime Vision Classics.es1">
+    <title>Samurai Champloo</title>
+    <sub-title>La elegía del encierro Verso 1</sub-title>
+    <desc>El grupo conoce a Sara, una artista itinerante ciega que decide acompañarles en su viaje. Mugen queda prendado de su belleza y Fuu encuentra por fin una amiga, ¿pero cuál es el terrible secreto que se oculta tras ella?</desc>
+    <episode-num system="xmltv_ns">0.19/26.</episode-num>
+  </programme>
+  <programme start="20251018140017 +0000" stop="20251018155541 +0000" channel="Anime Vision Classics.es1">
+    <title>El Castillo de Cagliostro</title>
+    <sub-title></sub-title>
+    <desc>El ladron de guante blanco más famoso del mundo, Lupin III, y su taciturno compañero Jigen se dirigen hacia el ducado europeo de Cagliostro para descubrir la procedencia de un dinero falso robado en el Casino de Monaco. Una vez allí, descubren que tras los infranqueables muros y sistemas de seguridad de última tecnología del Castillo de Cagliostro, el cruel regente del ducado y falsificador legendario mantiene prisionera a la Princesa Clarice con la intencion de contraer matrimonio con ella y utilizarla para descubrir el secreto del ancestral tesoro oculto de los Cagliostro. Una tentacion demasiado irresistible para Lupin III, que pretende aprovechar esta ocasion de oro para hacerse con el botín y, ya puestos, con el corazon de la bella princesa.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251018155541 +0000" stop="20251018173720 +0000" channel="Anime Vision Classics.es1">
+    <title>Buscando a la mágica Doremi</title>
+    <sub-title></sub-title>
+    <desc>Tres mujeres que crecieron viendo la serie “La mágica Do-Re-Mi” se embarcan juntas en un viaje mágico que cambiará sus vidas. Sora de Nagoya, Mire de Tokio y Reika de Onomichi son tres mujeres que aparentemente no tienen nada en común, ni edad ni ocupacion ni personalidad. Lo único que las une es que se sienten desconcertadas por una vida que no les está yendo tal y como la imaginaban y que crecieron viendo la serie “La mágica Do-Re-Mi”. Las aprendices de brujas solían reunirse en la tienda Maho-do, inspirada en un edificio de Kamakura. A partir de un encuentro predestinado en ese lugar, el trío realiza un recorrido por todos los lugares asociados con la serie. Sora, Mire y Reika ríen, lloran, se apoyan mutuamente y pasan un valioso tiempo juntas mientras comprenden que Doremi y sus amigos siempre han estado a su lado... El importante mensaje que las aprendices de bruja les enseñaron les brinda un suave empujon que las lleva a dar un nuevo paso adelante.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251018173720 +0000" stop="20251018180509 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>La tecnica secreta de Rinku, el pequeño gran enemigo</sub-title>
+    <desc>Finalmente da comienzo el Torneo de Artes Marciales de la Oscuridad. En el primer combate, Kuwabara tiene serias dificultades contra Rinku de los Seis Monstruos mientras Yusuke duerme exhausto por el entrenamiento de Genkai.</desc>
+    <episode-num system="xmltv_ns">1.27/41.</episode-num>
+  </programme>
+  <programme start="20251018180509 +0000" stop="20251018183335 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Kurama hace florecer flores de sangre</sub-title>
+    <desc>Tras el final de la lucha entre Kuwabara y Rinku, el siguiente combate enfrenta a Kurama contra Roto de los Seis Monstruos. Con el proposito de asegurarse la victoria, Roto hace que su hermano tome como rehen a la madre de Kurama.</desc>
+    <episode-num system="xmltv_ns">1.28/41.</episode-num>
+  </programme>
+  <programme start="20251018183335 +0000" stop="20251018190200 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Tecnicas secretas no dominadas: Olas de Dragon Negro</sub-title>
+    <desc>El siguiente combate enfrenta a Hiei contra Zeru. A pesar de que el poder de su adversario es el mayor entre los Seis Demonios, Hiei no se deja intimidar y contraataca con su tecnica secreta no dominada de las Olas de Dragon Negro.</desc>
+    <episode-num system="xmltv_ns">1.29/41.</episode-num>
+  </programme>
+  <programme start="20251018190200 +0000" stop="20251018193025 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡El Puño de Embriaguez del combatiente borracho Chuu!</sub-title>
+    <desc>Yusuke finalmente despierta a tiempo de hacer frente al borracho Chuu en el siguiente combate. Pero a pesar de las apariencias, Chuu tiene un poder y unas habilidades que le permiten combatir de igual a igual con Yusuke.</desc>
+    <episode-num system="xmltv_ns">1.30/41.</episode-num>
+  </programme>
+  <programme start="20251018193025 +0000" stop="20251018200013 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>El combate decisivo al filo del cuchillo</sub-title>
+    <desc>Cuanto más cerca están de la extenuacion, más feroz se vuelve la lucha entre Yusuke y Chuu. Con ambos agotados, Chuu propone zanjar el combate de una vez con una lucha a muerte en un espacio limitado por el filo de un cuchillo.</desc>
+    <episode-num system="xmltv_ns">1.31/41.</episode-num>
+  </programme>
+  <programme start="20251018200013 +0000" stop="20251018203007 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>¡Ya están aquí los ocho mejores equipos!</sub-title>
+    <desc>La victoria de Yusuke permite al equipo Urameshi clasificarse para la segunda ronda del torneo. Exhaustos despues de la primera ronda, Yusuke y sus compañeros son testigos del poder abrumador del equipo Toguro.</desc>
+    <episode-num system="xmltv_ns">1.32/41.</episode-num>
+  </programme>
+  <programme start="20251018203007 +0000" stop="20251018210010 +0000" channel="Anime Vision Classics.es1">
+    <title>Yu Yu Hakusho</title>
+    <sub-title>Posible porcentaje de victorias 0,05 por 100</sub-title>
+    <desc>Cuando Kurama y Hiei no aparecen a tiempo para el comienzo de la segunda ronda, Yusuke, Kuwabara y el luchador enmascarado se ven obligados a hacer frente en solitario al equipo del Dr. Ichigaki en un combate de tres contra tres.</desc>
+    <episode-num system="xmltv_ns">1.33/41.</episode-num>
+  </programme>
+  <programme start="20251018210010 +0000" stop="20251018225951 +0000" channel="Anime Vision Classics.es1">
+    <title>Street Fighter II</title>
+    <sub-title></sub-title>
+    <desc>En un futuro cercano, la organizacion terrorista Shadowland da un paso adelante en su conquista del mundo asesinando a políticos clave a nivel internacional. Su líder supremo Bison pretende encontrar y capturar a los mejores expertos en artes marciales para convertirlos en máquinas de matar. Con un ejercito de guerreros invencibles a sus ordenes, los únicos que poseen el potencial para detenerle son dos legendarios expertos en artes marciales: el famoso campeon Ken Masters y su antiguo compañero de entrenamiento Ryu, que viaja por el mundo para poner a prueba sus habilidades contra todo tipo de luchadores. Pero el maquiavelico plan de Bison pasa por enfrentar a Ryu contra Ken en la lucha de las luchas con el destino del mundo en juego.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251018225951 +0000" stop="20251019005932 +0000" channel="Anime Vision Classics.es1">
+    <title>Street Fighter II</title>
+    <sub-title></sub-title>
+    <desc>En un futuro cercano, la organizacion terrorista Shadowland da un paso adelante en su conquista del mundo asesinando a políticos clave a nivel internacional. Su líder supremo Bison pretende encontrar y capturar a los mejores expertos en artes marciales para convertirlos en máquinas de matar. Con un ejercito de guerreros invencibles a sus ordenes, los únicos que poseen el potencial para detenerle son dos legendarios expertos en artes marciales: el famoso campeon Ken Masters y su antiguo compañero de entrenamiento Ryu, que viaja por el mundo para poner a prueba sus habilidades contra todo tipo de luchadores. Pero el maquiavelico plan de Bison pasa por enfrentar a Ryu contra Ken en la lucha de las luchas con el destino del mundo en juego.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251019005932 +0000" stop="20251019013103 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Nobleza naranja, el duelo de Madoka bajo la tormenta de nieve</sub-title>
+    <desc>Mientras regresan del ABCB, Kyosuke y Madoka se encuentran a Oryuu, una chica a la que persiguen unas delincuentes y a la que han dejado malherida. Tiempo atrás, Madoka se metio en apuros y fue rescatada por Oryuu. Al día siguiente de su reencuentro, a oídos de Madoka llega la noticia de que Oryuu ha sido apresada por una banda y corre a ayudarla.</desc>
+    <episode-num system="xmltv_ns">0.36/48.</episode-num>
+  </programme>
+  <programme start="20251019013103 +0000" stop="20251019020127 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Kyosuke viaja en el tiempo, triple Navidad</sub-title>
+    <desc>Va a celebrarse una fiesta de Navidad y los asistentes deben ir emparejados. Como de costumbre, Kyosuke se las ve y se las desea para decidirse por Madoka o por Hikaru, aunque finalmente asistirá como acompañante de Hikaru. En el día de la fiesta, Kyosuke ve por casualidad en television a Madoka sola por la ciudad y al correr a su encuentro, resbala por las escaleras y viaja en el tiempo…</desc>
+    <episode-num system="xmltv_ns">0.37/48.</episode-num>
+  </programme>
+  <programme start="20251019020127 +0000" stop="20251019023151 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¿Madoka hipnotizada? Kyosuke, un Año Nuevo peligroso</sub-title>
+    <desc>Cuando Kyosuke despierta en Año Nuevo de 1988, ¡Madoka campa por su casa con un traje de conejita! Un momento… ¡Todavía es 31 de diciembre! ¿Ha sido otro sueño premonitorio? Resulta que Kurumi había hipnotizado a Kyosuke, pero para rizar más el rizo, ¡la propia Madoka tambien ha sido víctima de tecnicas de hipnosis el mismo día!</desc>
+    <episode-num system="xmltv_ns">0.38/48.</episode-num>
+  </programme>
+  <programme start="20251019023151 +0000" stop="20251019030215 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>El primer sueño del año: El contrataque del monstruo Jingoro</sub-title>
+    <desc>El enorme monstruo Jingoro se aproxima, pero los miembros del equipo T.A.P. GUN esperan a su ataque. Los miembros que lo componen son la líder Madoka seguida de Komatsu, Hatta y Yuusaku. Sin embargo, sus esfuerzos no resultan efectivos. En su auxilio disparando láseres acudirá Kyosuke, tambien conocido como Black Fighter.</desc>
+    <episode-num system="xmltv_ns">0.39/48.</episode-num>
+  </programme>
+  <programme start="20251019030215 +0000" stop="20251019033239 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¡Madoka paralizada! El reloj mágico de Kyosuke</sub-title>
+    <desc>Hikaru salta a la carretera casi sin darse cuenta cuando un coche se acerca, ¡está en peligro! Kyosuke cierra los ojos instintivamente, pero al abrirlos de nuevo todo a su alrededor se ha detenido, incluso el coche. Para mayor lío, los abuelos de Kyosuke aparecen ante su confuso nieto y le dan un reloj que puede parar el tiempo a voluntad.</desc>
+    <episode-num system="xmltv_ns">0.40/48.</episode-num>
+  </programme>
+  <programme start="20251019033239 +0000" stop="20251019040303 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¡Madoka es todo un exito! Kyosuke finalmente se declara</sub-title>
+    <desc>Un día, de camino a casa, una chica muy bonita se presenta frente a Kyosuke y Madoka y le entrega un ramo de flores y una carta a Madoka, quien la rescato en el pasado cuando sufrio el asalto de unos delincuentes. Desde entonces, la chica, Sumire, parece estar loca por la bella Madoka…</desc>
+    <episode-num system="xmltv_ns">0.41/48.</episode-num>
+  </programme>
+  <programme start="20251019040303 +0000" stop="20251019043327 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Hikaru destrozada, persígueme hasta la costa invernal</sub-title>
+    <desc>Kazuya propone formar un grupo de rock y Hikaru inscribe a sus amigos sin permiso en un festival musical sin consultárselo antes a Kyosuke, quien al principio se muestra reluctante, pero acaba por convencerse. El nombre que Hikaru elige para la banda es “Los Pickals”, al que se unen Yuusaku y Madoka para comenzar a ensayar.</desc>
+    <episode-num system="xmltv_ns">0.42/48.</episode-num>
+  </programme>
+  <programme start="20251019043327 +0000" stop="20251019050351 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¿El sabor del amor? El infernal San Valentín de Kyosuke</sub-title>
+    <desc>Kyosuke se ve forzado a intercambiarse de nuevo por Kazuya y, aunque es el mismísimo día de San Valentín, pero no uno cualquiera, porque todo se complica al darse la circunstancia de que tiene cita con el dentista y lo que es peor, no le queda más remedio que romper la promesa que le hizo a Madoka…</desc>
+    <episode-num system="xmltv_ns">0.43/48.</episode-num>
+  </programme>
+  <programme start="20251019050351 +0000" stop="20251019053415 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>Hikaru ha fallecido y todos se han ido</sub-title>
+    <desc>A peticion de Hikaru, a Kyosuke no le queda otra que compartir un diario amoroso. Para colmo de males, es sujeto de burlas de sus compañeros de clase y Madoka, a quien admira genuinamente, le trata con frialdad. Ya no puede más y el día que Hikaru anuncia que leerá su contenido en público, Kyosuke desea que su catarro empeore para no ser capaz de hablar. Pero entonces…</desc>
+    <episode-num system="xmltv_ns">0.44/48.</episode-num>
+  </programme>
+  <programme start="20251019053415 +0000" stop="20251019060439 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>¡Una noche de plata! Una telecabina para los dos solos</sub-title>
+    <desc>Kyosuke y Madoka disfrutan esquiando. Tras pasarlo bien persiguiendose y deslizándose sobre la nieve, ambos dan a parar con una telecabina que, de golpe y porrazo, detiene su curso en medio de una ventisca. Se hace de noche, hace frío en la intemperie y de alguna forma tienen que evitar no congelarse...</desc>
+    <episode-num system="xmltv_ns">0.45/48.</episode-num>
+  </programme>
+  <programme start="20251019060439 +0000" stop="20251019063503 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>El presentimiento de una despedida, en busca del primer amor de Madoka</sub-title>
+    <desc>Kyosuke no sale de su asombro al averiguar que Madoka tiene a alguien que le gusta y con quien se dio un beso hace 6 años. Cuando luego coincide con su abuelo, este le nota muy desanimado y le envía 6 años atrás en el tiempo. Lo que observa en el pasado es a Madoka abrazando y besando a una persona cuya identidad no conoce.</desc>
+    <episode-num system="xmltv_ns">0.46/48.</episode-num>
+  </programme>
+  <programme start="20251019063503 +0000" stop="20251019070457 +0000" channel="Anime Vision Classics.es1">
+    <title>Kimagure Orange Road</title>
+    <sub-title>El amor es atrapado y volver a empezar</sub-title>
+    <desc>Kyosuke es transportado de nuevo al pasado de hace 6 años, esta vez junto a Madoka en el salto temporal. Allí se cruzan con las versiones más jovenes de Hikaru y el resto para su sorpresa. Kyosuke revela sus poderes psíquicos ante una Madoka que se muestra reluctante. A su vez, Madoka confiesa que está a punto de marcharse a Estados Unidos y entonces Kyosuke decide declararle el amor que siente por ella.</desc>
+    <episode-num system="xmltv_ns">0.47/48.</episode-num>
+  </programme>
+  <programme start="20251019070457 +0000" stop="20251019073240 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡Crisis! El baile del espíritu de los muertos</sub-title>
+    <desc>Despues de que Mikado Sanzenin, el compañero de Azusa, le robe un beso a Ranma, este se enfada con el y le desafía a un duelo. Ante el desesperado ataque de Ranma, Mikado utiliza el movimiento especial conocido como el baile del espíritu de los muertos.</desc>
+    <episode-num system="xmltv_ns">0.25/161.</episode-num>
+  </programme>
+  <programme start="20251019073240 +0000" stop="20251019080023 +0000" channel="Anime Vision Classics.es1">
+    <title>Ranma 1/2</title>
+    <sub-title>¡P-chan explota! La fuente del amor helado</sub-title>
+    <desc>Ranma proclama “¡Akane es mi prometida!” en medio de la pista de patinaje. ¡Por su parte, la pareja formada por Azusa y Mikado lanza el ataque definitivo de la pareja del terror: el Merry-Go-Round del Adios!</desc>
+    <episode-num system="xmltv_ns">0.26/161.</episode-num>
+  </programme>
+  <programme start="20251015235735 +0000" stop="20251016003005 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Cicatriz</sub-title>
+    <desc>Tsukiyama toma como rehen a la novia humana de Nishio, que vive con el a pesar de saber que es un ghoul, con la intencion de atrapar a Kaneki.</desc>
+    <episode-num system="xmltv_ns">0.4/12.</episode-num>
+  </programme>
+  <programme start="20251016003005 +0000" stop="20251016010006 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Aguacero</sub-title>
+    <desc>Tōka consigue derrotar a Tsukiyama con la ayuda de Nishio y Kaneki, pero los recientes acontecimientos en el distrito 20 atraen la atencion de la policía.</desc>
+    <episode-num system="xmltv_ns">0.5/12.</episode-num>
+  </programme>
+  <programme start="20251016010006 +0000" stop="20251016013024 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Partida</sub-title>
+    <desc>Los documentos sellados que Lyza llevaba con ella incluyen el mensaje “Te estare esperando en el fondo del inframundo”. Riko está convencida de que el mensaje va dirigido a ella y revela a sus amigos que desea ir al fondo del Abismo. Al final, acaba discutiendo con Nat, quien piensa que Riko jamás podrá regresar. Mientras tanto, Reg completa su primera exploracion de cueva en la que encuentra una Roca Pecho y un esqueleto que reza.X</desc>
+    <episode-num system="xmltv_ns">0.2/13.</episode-num>
+  </programme>
+  <programme start="20251016013024 +0000" stop="20251016020006 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>La orilla del abismo</sub-title>
+    <desc>Riko y Reg descienden hasta la primera capa y Reg convierte sus brazos en una trampa alarma para monitorear de forma constante los alrededores. Riko, con un brillo en los ojos, asegura: “A este ritmo, seguro que llegaremos al fondo del inframundo”. Más tarde, Reg entrega un sobre a Riko y el mensaje de su interior hace que esta palidezca y quiera descender inmediatamente hasta la segunda capa.</desc>
+    <episode-num system="xmltv_ns">0.3/13.</episode-num>
+  </programme>
+  <programme start="20251016020006 +0000" stop="20251016033749 +0000" channel="Anime Vision.es1">
+    <title>Goblin Slayer: La Corona del Goblin</title>
+    <sub-title></sub-title>
+    <desc>El grupo de Goblin Slayer se dirige a las montañas nevadas del norte despues de recibir una peticion para encontrar a una noble espadachina desaparecida. “¿Puedo pedirte que acudas en ayuda de la desafortunada muchacha?”. Todo comienza con la peticion de la Doncella de la Espada a Goblin Slayer para que acuda al rescate de una noble espadachina desaparecida. Y así, Goblin Slayer y su grupo se dirigen a las montañas del norte, donde eliminan a una avanzadilla de goblins que había atacado una aldea. Sin embargo, mientras Goblin visita la aldea atacada y su misteriosa capilla, comienzan a inquietarle el inusual comportamiento de la hueste de goblins. Con el proposito de salvar a la espadachina prisionera, Goblin Slayer, la Sacerdotisa y sus compañeros se enfrentan a un ejercito de goblins liderados por alguien que cuenta con una fuerza abrumadora en una antigua fortaleza rodeada de nieve.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251016033749 +0000" stop="20251016040645 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte I</sub-title>
+    <desc>Las aparentemente interminables vacaciones de verano han terminado y ha llegado el segundo semestre. Se acerca el momento del festival cultural y, como no podía ser de otra forma, Haruhi convoca una reunion de la Brigada SOS.</desc>
+    <episode-num system="xmltv_ns">0.19/28.</episode-num>
+  </programme>
+  <programme start="20251016040645 +0000" stop="20251016043546 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte II</sub-title>
+    <desc>Haruhi ha decidido que la Brigada SOS proyecte una película independiente en el festival cultural. Asahina hará de viajera del tiempo, Nagato de extraterrestre y Koizumi de esper… Casi mejor pensar que se trata de una coincidencia.</desc>
+    <episode-num system="xmltv_ns">0.20/28.</episode-num>
+  </programme>
+  <programme start="20251016043546 +0000" stop="20251016050448 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte III</sub-title>
+    <desc>Como directora, Haruhi hace lo que quiere hasta el punto de saltarse prohibiciones y rozar el delito para sacar adelante su película. Pero lo peor viene cuando le dice a Mikuru que dispare un rayo por los ojos… ¡y esta lo hace!</desc>
+    <episode-num system="xmltv_ns">0.21/28.</episode-num>
+  </programme>
+  <programme start="20251016050448 +0000" stop="20251016053245 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Renard</sub-title>
+    <desc>Bell descubre que la amiga a la que buscaba Mikoto era la renard Haruhime y que la Familia Ishtar a la que pertenece es de primer nivel. Mientras, Ishtar descubre que Bell es objeto de deseo de Freya y pretende utilizarlo contra ella.</desc>
+    <episode-num system="xmltv_ns">1.6/13.</episode-num>
+  </programme>
+  <programme start="20251016053245 +0000" stop="20251016060042 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Sueño efímero</sub-title>
+    <desc>Mientras tratan de ganar dinero para comprar la libertad de Haruhime, Bell y Mikoto son capturados por la Familia Ishtar. Bell despierta encadenado en manos de la lujuriosa Phryne, pero es rescatado una vez más por Haruhime.</desc>
+    <episode-num system="xmltv_ns">1.7/13.</episode-num>
+  </programme>
+  <programme start="20251016060042 +0000" stop="20251016063013 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight II</sub-title>
+    <desc>El tiempo parece haber entrado en bucle desde el 17 hasta el 31 de Agosto. Koizumi parece satisfecho con la situacion, Mikuru llora por no poder volver al futuro, Nagato guarda silencio y Kyon, no muy convencido, se pregunta por que.</desc>
+    <episode-num system="xmltv_ns">0.12/28.</episode-num>
+  </programme>
+  <programme start="20251016063013 +0000" stop="20251016070018 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight III</sub-title>
+    <desc>Son las vacaciones de verano y eso significa un monton de actividades divertidas como partidos de beisbol, piscina y caza de cigarras. Pero por muy divertida que sea una actividad, dejar de serlo cuando se repite una y otra vez, una y otra vez.</desc>
+    <episode-num system="xmltv_ns">0.13/28.</episode-num>
+  </programme>
+  <programme start="20251016070018 +0000" stop="20251016073040 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>Aunque las ovaciones se callen, la voz de los mudos no desaparecerá</sub-title>
+    <desc>El equipo vuelve a reunirse con Yuri como entrenador, Aragakai como compañero de entrenamiento y Sachio y la pandilla personalizando el equipo que Joe heredo del Jefe. Mientras, Mac lo deja todo y vaga sin rumbo por las calles.</desc>
+    <episode-num system="xmltv_ns">1.11/13.</episode-num>
+  </programme>
+  <programme start="20251016073040 +0000" stop="20251016080102 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>El con alas llevas al sin alas, y el sin alas bendice al con alas</sub-title>
+    <desc>El combate entre Joe y Mac finalmente da comienzo y ambos libran una intensa lucha con ambas partes negándose a ceder ni un centímetro. Mientras amigos y familiares cuidan de ellos, la lucha se encamina hacia el último round.</desc>
+    <episode-num system="xmltv_ns">1.12/13.</episode-num>
+  </programme>
+  <programme start="20251016080102 +0000" stop="20251016083018 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Encuentro de cargas electricas colisionando</sub-title>
+    <desc>Mientras traen al laboratorio el IBN5100, la herramienta necesaria para hackear al SERN, Okabe y Kurisu se encuentran con Suzuha mientras esta cierra el taller de Braun. Aunque supuestamente no conocía a Kurisu de antes, Suzuha la trata con una evidente hostilidad. Cuando Okabe le pregunta el porque, esta le responde “no te fíes de Kurisu Makise”. Okabe, Daru y Kurisu reemprenden el hackeo del SERN, ahora con el IBN5100. Los documentos que encuentran, los informes Jellyman, revelan una terrible verdad. Entre los experimentos sobre viajes en el tiempo que el SERN lleva más de 40 años realizando tambien ha habido experimentacion en humanos. Aunque los repugnantes resultados de esos experimentos los sorprenden a todos, Okabe proclama ante Kurisu que ellos crearán una máquina del tiempo funcional antes que el SERN.</desc>
+    <episode-num system="xmltv_ns">0.4/26.</episode-num>
+  </programme>
+  <programme start="20251016083018 +0000" stop="20251016090014 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Divergencia del efecto mariposa</sub-title>
+    <desc>Tras conocer los experimentos sobre viajes en el tiempo que el SERN ha realizado, Okabe organiza una mesa redonda con los demás miembros de El laboratorio de los artefactos del futuro. En ella, deciden llamar a los mensajes que se pueden enviar al pasado, que habían descubierto por casualidad, D-mails. Okabe cree que los D-mails solo se pueden enviar en una determinada franja horaria, y continúa con los experimentos para comprobarlo. Como resultado, las bananas que había metido dentro del telefono microondas (nombre provisional) se convirtieron en gelnanas, y Okabe recibio un mensaje de Kurisu cinco días antes. Okabe no cabe en sí por haber hecho el descubrimiento del siglo, pero ahora conoce los secretos del SERN y sabe que no tienen escrúpulos ni con la experimentacion en humanos. Además, ha involucrado a Mayuri, que no tenía nada que ver, lo que le produce cierto desasosiego. Al día siguiente invitan a Moeka al laboratorio para que investigue el IBN5100, y por casualidad acaba enterándose de la existencia de los D-mails. Para seguir manteniendolo en secreto, Okabe la nombra miembro del laboratorio n.º 005.</desc>
+    <episode-num system="xmltv_ns">0.5/26.</episode-num>
+  </programme>
+  <programme start="20251016090014 +0000" stop="20251016093011 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Cicatriz</sub-title>
+    <desc>Tsukiyama toma como rehen a la novia humana de Nishio, que vive con el a pesar de saber que es un ghoul, con la intencion de atrapar a Kaneki.</desc>
+    <episode-num system="xmltv_ns">0.4/12.</episode-num>
+  </programme>
+  <programme start="20251016093011 +0000" stop="20251016100006 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Aguacero</sub-title>
+    <desc>Tōka consigue derrotar a Tsukiyama con la ayuda de Nishio y Kaneki, pero los recientes acontecimientos en el distrito 20 atraen la atencion de la policía.</desc>
+    <episode-num system="xmltv_ns">0.5/12.</episode-num>
+  </programme>
+  <programme start="20251016100006 +0000" stop="20251016103015 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Partida</sub-title>
+    <desc>Los documentos sellados que Lyza llevaba con ella incluyen el mensaje “Te estare esperando en el fondo del inframundo”. Riko está convencida de que el mensaje va dirigido a ella y revela a sus amigos que desea ir al fondo del Abismo. Al final, acaba discutiendo con Nat, quien piensa que Riko jamás podrá regresar. Mientras tanto, Reg completa su primera exploracion de cueva en la que encuentra una Roca Pecho y un esqueleto que reza.X</desc>
+    <episode-num system="xmltv_ns">0.2/13.</episode-num>
+  </programme>
+  <programme start="20251016103015 +0000" stop="20251016110010 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>La orilla del abismo</sub-title>
+    <desc>Riko y Reg descienden hasta la primera capa y Reg convierte sus brazos en una trampa alarma para monitorear de forma constante los alrededores. Riko, con un brillo en los ojos, asegura: “A este ritmo, seguro que llegaremos al fondo del inframundo”. Más tarde, Reg entrega un sobre a Riko y el mensaje de su interior hace que esta palidezca y quiera descender inmediatamente hasta la segunda capa.</desc>
+    <episode-num system="xmltv_ns">0.3/13.</episode-num>
+  </programme>
+  <programme start="20251016110010 +0000" stop="20251016113005 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Se7en</sub-title>
+    <desc>Los Akudama, criminales, campan a sus anchas en Kansai. Un día, una chica normal y corriente que trataba de vivir en paz y tranquilidad acaba siendo detenida por la policía tras un malentendido. Mientras tanto, varios Akudama que tratan de cumplir una mision con una suculenta recompensa irrumpen en la comisaría.</desc>
+    <episode-num system="xmltv_ns">0.0/12.</episode-num>
+  </programme>
+  <programme start="20251016113005 +0000" stop="20251016120315 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Reservoir Dogs</sub-title>
+    <desc>La chica normal acaba formando parte de un grupo mortífero de Akudama y no puede escapar al llevar un collar bomba. Obligados a colaborar con el que lo ha ideado todo, escuchan el plan de su nueva mision: un golpe al único enlace que existe entre Kansai y Kantō, el Shinkansen, comparable a una deidad para la gente de la ciudad.</desc>
+    <episode-num system="xmltv_ns">0.1/12.</episode-num>
+  </programme>
+  <programme start="20251016120315 +0000" stop="20251016140026 +0000" channel="Anime Vision.es1">
+    <title>Hello World</title>
+    <sub-title></sub-title>
+    <desc>Aunque eso signifique destruir el mundo, quiero volver a verte otra vez. Ante el estudiante de secundaria Naomi se aparece su yo de 10 años en el futuro, quien asegura que su compañera de clase Ruri morirá en un trágico accidente. Es el año 2027 y la ciudad de Kioto ha experimentado un tremendo avance tecnologico. En ella vive Naomi Katagaki, un tímido e indeciso estudiante de secundaria amante de los libros. Un buen día, ante Naomi se aparece un adulto joven que solo puede ver el y que asegura ser su yo de diez años en el futuro. De acuerdo con el Naomi del futuro, dentro de tres meses empezará a salir con su compañera de clase Ruri Ichigyo, pero esta morirá en un trágico accidente. Tras pedirle que le ayude a salvarla, nace una curiosa camaradería entre el Naomi del presente y el Naomi del futuro, a quien el joven se dirige como “sensei”. Poco a poco, el Naomi del presente irá descubriendo el fatal destino de Ruri, el verdadero proposito del Naomi del futuro y el gran secreto oculto en este mundo.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251016140026 +0000" stop="20251016143018 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte IV</sub-title>
+    <desc>El rodaje sigue adelante hasta que el comportamiento abusivo de Haruhi hacia Mikuru acaba con la paciencia de Kyon. Haruhi se marcha enfadada y Koizumi advierte de que si no hacen algo podría pasar algo peor que el espacio sellado.</desc>
+    <episode-num system="xmltv_ns">0.22/28.</episode-num>
+  </programme>
+  <programme start="20251016143018 +0000" stop="20251016150015 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte V</sub-title>
+    <desc>Debido a la habilidad de Haruhi, el escenario de la película, incluyendo gatos que hablan, se está convirtiendo en realidad. La única solucion posible es que Haruhi sea consciente de que la película es ficcion, pero, ¿como conseguir algo así?</desc>
+    <episode-num system="xmltv_ns">0.23/28.</episode-num>
+  </programme>
+  <programme start="20251016150015 +0000" stop="20251016153049 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Berberas</sub-title>
+    <desc>Ishtar planea usar el bioctonolito para sacrificar a Haruhime y utilizar su habilidad de aumento de poder para derrotar a Freya. Tras conocer el destino que le espera a la joven, Bell decide ir a rescatarla aún a riesgo de comenzar una guerra.</desc>
+    <episode-num system="xmltv_ns">1.8/13.</episode-num>
+  </programme>
+  <programme start="20251016153049 +0000" stop="20251016160007 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Argonauta</sub-title>
+    <desc>Finalmente, Haruhime acepta la salvacion y le presta a Bell su potenciador de nivel para que haga frente a Phryne. Al mismo tiempo, en medio de un rincon en llamas del barrio rojo se alzan al aventurero más fuerte y la diosa Freya.</desc>
+    <episode-num system="xmltv_ns">1.9/13.</episode-num>
+  </programme>
+  <programme start="20251016160007 +0000" stop="20251016163013 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight IV</sub-title>
+    <desc>Kyon y sus compañeros de la Brigada SOS están hartos de la repeticion de acontecimientos orquestada por Haruhi. Sin embargo, no tienen ni la más mínima idea de como salir de ese bucle y los mismos días se repiten otra vez más.</desc>
+    <episode-num system="xmltv_ns">0.14/28.</episode-num>
+  </programme>
+  <programme start="20251016163013 +0000" stop="20251016170018 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight V</sub-title>
+    <desc>“Algo no está bien”. ¿Cuántas veces ha repetido Kyon esta frase en su cabeza? Kyon está viendo aburrido un partido de beisbol de secundaria cuando suena el telefono y antes de cogerlo, el ya sabe de alguna manera que va a ser Haruhi.</desc>
+    <episode-num system="xmltv_ns">0.15/28.</episode-num>
+  </programme>
+  <programme start="20251016170018 +0000" stop="20251016173040 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>Los fantasmas tararean un requiem</sub-title>
+    <desc>Siete años despues del torneo de Megalonia, Joe se encuentra una vez más en un ring de boxeo clandestino, esta vez con el nombre de Nomada. Mientras lucha para ganarse la vida, Joe conoce a un hombre misterioso llamado el Jefe.</desc>
+    <episode-num system="xmltv_ns">1.0/13.</episode-num>
+  </programme>
+  <programme start="20251016173040 +0000" stop="20251016180103 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>La desesperacion da coraje a los cobardes</sub-title>
+    <desc>Un joven delincuente llamado Mio roba la moto de Joe y para cuando este la encuentra ya ha sido desguazada. Cuando Marla, la madre de Mio, se ofrece a reembolsarle el dinero a Joe, este cae inconsciente por la falta de analgesicos.</desc>
+    <episode-num system="xmltv_ns">1.1/13.</episode-num>
+  </programme>
+  <programme start="20251016180103 +0000" stop="20251016183020 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Divergencia de la falla</sub-title>
+    <desc>Tras completar el telefono microondas segunda edicion 1.03, lo usa para hacer un experimento. Okabe quiere probar a cambiar el pasado enviando un D-mail. Kurisu teme crear una paradoja temporal, pero al final deciden enviarle un mensaje con los números ganadores del tercer premio de la Loto 6 al Okabe de hace una semana. Nada más enviar el mensaje, Okabe siente algo extraño, como si el universo se estuviese distorsionando. Mientras Okabe aún sigue confuso por las sutiles diferencias en su entorno llega Luka, diciendo que hace una semana Okabe le dio los números ganadores de la Loto 6, pero que se había equivocado al escribir los números. Además, encima de la mesa ve una botella de Doktor Pepper que antes no estaba. Sorprendentemente, al enviar el D-mail cambio el pasado y cambio de línea de universo. A pesar de estar en el mismo sitio, ningún miembro del laboratorio aparte de Okabe se acuerda del experimento, ni recuerda nada de antes del cambio. Okabe le pregunta a John Titor sobre este incomprensible fenomeno, a lo que este le responde que si conserva sus recuerdos a traves de las distintas líneas de universo tiene una habilidad extraordinaria. Además, le dice que es posible que sea capaz de guiar a la humanidad, y sobrepasar la divergencia del 1%.</desc>
+    <episode-num system="xmltv_ns">0.6/26.</episode-num>
+  </programme>
+  <programme start="20251016183020 +0000" stop="20251016190023 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Homeostasis de los delirios</sub-title>
+    <desc>Okabe, al recibir el mensaje de John Titor en el que le pide que se convierta en su salvador, informa a Daru y a Kurisu que van a poner en marcha la operacion Urd, y les revela que tiene una habilidad especial que le permite conservar sus recuerdos a traves de las distintas líneas de universo, Reading Steiner. Para comprobar si tiene ese poder, hacen otro experimento. Le envían un D-mail a Moeka diciendo que no se cambie de movil. Como consecuencia, cambian de línea de universo y las acciones de Moeka son diferentes: ni está en el laboratorio, ni los miembros del laboratorio la recuerdan. Luka, al oírles hablar sobre los D-mails, les pide que lo conviertan en una mujer, por lo que le envían a su madre cuando estaba embaraza un mensaje al busca recomendándole que coma muchas verduras, siguiendo el dicho popular de que si comes muchas verduras tendrás una niña. Okabe vuelve a sentir inmediatamente esa extraña sensacion y se activa su Reading Steiner, aunque en apariencia Luka no ha cambiado. El experimento ha sido un fracaso, pero han cambiado de línea de universo, ¿que habrá cambiado?</desc>
+    <episode-num system="xmltv_ns">0.7/26.</episode-num>
+  </programme>
+  <programme start="20251016190023 +0000" stop="20251016193017 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Confinamiento</sub-title>
+    <desc>Despues de que la policía mate a la madre de Hinami y hiera a Tōka, Kaneki pide enfrentarse a los investigadores de ghouls y Tōka le entrega su máscara.</desc>
+    <episode-num system="xmltv_ns">0.6/12.</episode-num>
+  </programme>
+  <programme start="20251016193017 +0000" stop="20251016200007 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Círculo</sub-title>
+    <desc>Tras caer en una trampa de los investigadores de ghouls, Tōka trata de vengar a la madre de Hinami contra Mado mientras Kaneki se enfrenta a Amon.</desc>
+    <episode-num system="xmltv_ns">0.7/12.</episode-num>
+  </programme>
+  <programme start="20251016200007 +0000" stop="20251016203027 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Incinerador</sub-title>
+    <desc>Riko y Reg llegan hasta la segunda capa, el Bosque de la Tentacion. Los dos se sienten aliviados de haber dejado atrás a sus perseguidores. Pero mientras atraviesan el bosque, escuchan un grito de auxilio. La fuente de la voz es un velador de cadáveres, que imita la voz de los exploradores de cuevas. Mientras lo observan, Riko es atrapada por otro velador de cadáveres y Reg corre en su ayuda.</desc>
+    <episode-num system="xmltv_ns">0.4/13.</episode-num>
+  </programme>
+  <programme start="20251016203027 +0000" stop="20251016210023 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Campamento del Buscador</sub-title>
+    <desc>Cuando Riko y Reg finalmente llegan al Campamento del Buscador en la segunda capa son recibidos por la Silbato Blanco Ozen. Riko da las gracias a Ozen por haberla llevado hasta la superficie en el Recipiente Repelente de Maldicion, pero Ozen le responde con un comentario</desc>
+    <episode-num system="xmltv_ns">0.5/13.</episode-num>
+  </programme>
+  <programme start="20251016210023 +0000" stop="20251016213009 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Mision imposible</sub-title>
+    <desc>Despues de escapar del ataque del departamento de ejecuciones, los Akudama llegan por fin a la guarida del Gato Negro, donde repasan los detalles del plan de ataque al Shinkansen. Para ello tendrán que superar la vigilancia extrema de la estacion de Kansai y cumplir el objetivo antes de que se termine el tiempo del que disponen.</desc>
+    <episode-num system="xmltv_ns">0.2/12.</episode-num>
+  </programme>
+  <programme start="20251016213009 +0000" stop="20251016220009 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Speed</sub-title>
+    <desc>El Shinkansen sale de la estacion de Kansai y, a pesar del poco tiempo que les queda, si consiguen entregarle la caja fuerte al Gato Negro, la mision será un exito. Sin embargo, tan solo disponen de 10 minutos más. Si superan ese tiempo, entrarán en la devastada zona de aislamiento total, donde lo único que reina es la muerte... y para terminar de complicar la situacion, el dúo de ejecutores viaja en el mismo convoy.</desc>
+    <episode-num system="xmltv_ns">0.3/12.</episode-num>
+  </programme>
+  <programme start="20251016220009 +0000" stop="20251016233722 +0000" channel="Anime Vision.es1">
+    <title>Goblin Slayer: La Corona del Goblin</title>
+    <sub-title></sub-title>
+    <desc>El grupo de Goblin Slayer se dirige a las montañas nevadas del norte despues de recibir una peticion para encontrar a una noble espadachina desaparecida. “¿Puedo pedirte que acudas en ayuda de la desafortunada muchacha?”. Todo comienza con la peticion de la Doncella de la Espada a Goblin Slayer para que acuda al rescate de una noble espadachina desaparecida. Y así, Goblin Slayer y su grupo se dirigen a las montañas del norte, donde eliminan a una avanzadilla de goblins que había atacado una aldea. Sin embargo, mientras Goblin visita la aldea atacada y su misteriosa capilla, comienzan a inquietarle el inusual comportamiento de la hueste de goblins. Con el proposito de salvar a la espadachina prisionera, Goblin Slayer, la Sacerdotisa y sus compañeros se enfrentan a un ejercito de goblins liderados por alguien que cuenta con una fuerza abrumadora en una antigua fortaleza rodeada de nieve.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251016233722 +0000" stop="20251017000532 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Aguacero</sub-title>
+    <desc>Tōka consigue derrotar a Tsukiyama con la ayuda de Nishio y Kaneki, pero los recientes acontecimientos en el distrito 20 atraen la atencion de la policía.</desc>
+    <episode-num system="xmltv_ns">0.5/12.</episode-num>
+  </programme>
+  <programme start="20251017000532 +0000" stop="20251017003348 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Confinamiento</sub-title>
+    <desc>Despues de que la policía mate a la madre de Hinami y hiera a Tōka, Kaneki pide enfrentarse a los investigadores de ghouls y Tōka le entrega su máscara.</desc>
+    <episode-num system="xmltv_ns">0.6/12.</episode-num>
+  </programme>
+  <programme start="20251017003348 +0000" stop="20251017010204 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Círculo</sub-title>
+    <desc>Tras caer en una trampa de los investigadores de ghouls, Tōka trata de vengar a la madre de Hinami contra Mado mientras Kaneki se enfrenta a Amon.</desc>
+    <episode-num system="xmltv_ns">0.7/12.</episode-num>
+  </programme>
+  <programme start="20251017010204 +0000" stop="20251017013016 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Incinerador</sub-title>
+    <desc>Riko y Reg llegan hasta la segunda capa, el Bosque de la Tentacion. Los dos se sienten aliviados de haber dejado atrás a sus perseguidores. Pero mientras atraviesan el bosque, escuchan un grito de auxilio. La fuente de la voz es un velador de cadáveres, que imita la voz de los exploradores de cuevas. Mientras lo observan, Riko es atrapada por otro velador de cadáveres y Reg corre en su ayuda.</desc>
+    <episode-num system="xmltv_ns">0.4/13.</episode-num>
+  </programme>
+  <programme start="20251017013016 +0000" stop="20251017020012 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Campamento del Buscador</sub-title>
+    <desc>Cuando Riko y Reg finalmente llegan al Campamento del Buscador en la segunda capa son recibidos por la Silbato Blanco Ozen. Riko da las gracias a Ozen por haberla llevado hasta la superficie en el Recipiente Repelente de Maldicion, pero Ozen le responde con un comentario</desc>
+    <episode-num system="xmltv_ns">0.5/13.</episode-num>
+  </programme>
+  <programme start="20251017020012 +0000" stop="20251017040008 +0000" channel="Anime Vision.es1">
+    <title>Promare</title>
+    <sub-title></sub-title>
+    <desc>Han pasado 30 años desde la aparicion de los Burnish, una raza de seres mutantes capaces de controlar el fuego que desataron una gran tormenta de llamas que devasto la mitad del mundo. Cuando aparece un grupo de mutantes aún más agresivos conocidos como Mad Burnish, lo único que se interpone entre ellos y la destruccion total es Burning Rescue, una brigada de bomberos de elite anti-Burnish fundada por Kray Foresight, el gobernador de la República de Promepolis. Precisamente su miembro más novato, el apasionado Galo Thymos, es capaz de capturar a Lio Fiota, la líder de los Mad Burnish. Sin embargo, Lio escapa y al seguirla hasta su escondite, Galo descubre una impactante verdad acerca de los Burnish y la existencia de un terrible plan a escala global…</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251017040008 +0000" stop="20251017043009 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte IV</sub-title>
+    <desc>El rodaje sigue adelante hasta que el comportamiento abusivo de Haruhi hacia Mikuru acaba con la paciencia de Kyon. Haruhi se marcha enfadada y Koizumi advierte de que si no hacen algo podría pasar algo peor que el espacio sellado.</desc>
+    <episode-num system="xmltv_ns">0.22/28.</episode-num>
+  </programme>
+  <programme start="20251017043009 +0000" stop="20251017050008 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>El suspiro de Haruhi Suzumiya Parte V</sub-title>
+    <desc>Debido a la habilidad de Haruhi, el escenario de la película, incluyendo gatos que hablan, se está convirtiendo en realidad. La única solucion posible es que Haruhi sea consciente de que la película es ficcion, pero, ¿como conseguir algo así?</desc>
+    <episode-num system="xmltv_ns">0.23/28.</episode-num>
+  </programme>
+  <programme start="20251017050008 +0000" stop="20251017053017 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Berberas</sub-title>
+    <desc>Ishtar planea usar el bioctonolito para sacrificar a Haruhime y utilizar su habilidad de aumento de poder para derrotar a Freya. Tras conocer el destino que le espera a la joven, Bell decide ir a rescatarla aún a riesgo de comenzar una guerra.</desc>
+    <episode-num system="xmltv_ns">1.8/13.</episode-num>
+  </programme>
+  <programme start="20251017053017 +0000" stop="20251017060014 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Argonauta</sub-title>
+    <desc>Finalmente, Haruhime acepta la salvacion y le presta a Bell su potenciador de nivel para que haga frente a Phryne. Al mismo tiempo, en medio de un rincon en llamas del barrio rojo se alzan al aventurero más fuerte y la diosa Freya.</desc>
+    <episode-num system="xmltv_ns">1.9/13.</episode-num>
+  </programme>
+  <programme start="20251017060014 +0000" stop="20251017063010 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight IV</sub-title>
+    <desc>Kyon y sus compañeros de la Brigada SOS están hartos de la repeticion de acontecimientos orquestada por Haruhi. Sin embargo, no tienen ni la más mínima idea de como salir de ese bucle y los mismos días se repiten otra vez más.</desc>
+    <episode-num system="xmltv_ns">0.14/28.</episode-num>
+  </programme>
+  <programme start="20251017063010 +0000" stop="20251017070011 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight V</sub-title>
+    <desc>“Algo no está bien”. ¿Cuántas veces ha repetido Kyon esta frase en su cabeza? Kyon está viendo aburrido un partido de beisbol de secundaria cuando suena el telefono y antes de cogerlo, el ya sabe de alguna manera que va a ser Haruhi.</desc>
+    <episode-num system="xmltv_ns">0.15/28.</episode-num>
+  </programme>
+  <programme start="20251017070011 +0000" stop="20251017073021 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>Los fantasmas tararean un requiem</sub-title>
+    <desc>Siete años despues del torneo de Megalonia, Joe se encuentra una vez más en un ring de boxeo clandestino, esta vez con el nombre de Nomada. Mientras lucha para ganarse la vida, Joe conoce a un hombre misterioso llamado el Jefe.</desc>
+    <episode-num system="xmltv_ns">1.0/13.</episode-num>
+  </programme>
+  <programme start="20251017073021 +0000" stop="20251017080136 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>La desesperacion da coraje a los cobardes</sub-title>
+    <desc>Un joven delincuente llamado Mio roba la moto de Joe y para cuando este la encuentra ya ha sido desguazada. Cuando Marla, la madre de Mio, se ofrece a reembolsarle el dinero a Joe, este cae inconsciente por la falta de analgesicos.</desc>
+    <episode-num system="xmltv_ns">1.1/13.</episode-num>
+  </programme>
+  <programme start="20251017080136 +0000" stop="20251017083232 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Divergencia de la falla</sub-title>
+    <desc>Tras completar el telefono microondas segunda edicion 1.03, lo usa para hacer un experimento. Okabe quiere probar a cambiar el pasado enviando un D-mail. Kurisu teme crear una paradoja temporal, pero al final deciden enviarle un mensaje con los números ganadores del tercer premio de la Loto 6 al Okabe de hace una semana. Nada más enviar el mensaje, Okabe siente algo extraño, como si el universo se estuviese distorsionando. Mientras Okabe aún sigue confuso por las sutiles diferencias en su entorno llega Luka, diciendo que hace una semana Okabe le dio los números ganadores de la Loto 6, pero que se había equivocado al escribir los números. Además, encima de la mesa ve una botella de Doktor Pepper que antes no estaba. Sorprendentemente, al enviar el D-mail cambio el pasado y cambio de línea de universo. A pesar de estar en el mismo sitio, ningún miembro del laboratorio aparte de Okabe se acuerda del experimento, ni recuerda nada de antes del cambio. Okabe le pregunta a John Titor sobre este incomprensible fenomeno, a lo que este le responde que si conserva sus recuerdos a traves de las distintas líneas de universo tiene una habilidad extraordinaria. Además, le dice que es posible que sea capaz de guiar a la humanidad, y sobrepasar la divergencia del 1%.</desc>
+    <episode-num system="xmltv_ns">0.6/26.</episode-num>
+  </programme>
+  <programme start="20251017083232 +0000" stop="20251017090527 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Homeostasis de los delirios</sub-title>
+    <desc>Okabe, al recibir el mensaje de John Titor en el que le pide que se convierta en su salvador, informa a Daru y a Kurisu que van a poner en marcha la operacion Urd, y les revela que tiene una habilidad especial que le permite conservar sus recuerdos a traves de las distintas líneas de universo, Reading Steiner. Para comprobar si tiene ese poder, hacen otro experimento. Le envían un D-mail a Moeka diciendo que no se cambie de movil. Como consecuencia, cambian de línea de universo y las acciones de Moeka son diferentes: ni está en el laboratorio, ni los miembros del laboratorio la recuerdan. Luka, al oírles hablar sobre los D-mails, les pide que lo conviertan en una mujer, por lo que le envían a su madre cuando estaba embaraza un mensaje al busca recomendándole que coma muchas verduras, siguiendo el dicho popular de que si comes muchas verduras tendrás una niña. Okabe vuelve a sentir inmediatamente esa extraña sensacion y se activa su Reading Steiner, aunque en apariencia Luka no ha cambiado. El experimento ha sido un fracaso, pero han cambiado de línea de universo, ¿que habrá cambiado?</desc>
+    <episode-num system="xmltv_ns">0.7/26.</episode-num>
+  </programme>
+  <programme start="20251017090527 +0000" stop="20251017093652 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Confinamiento</sub-title>
+    <desc>Despues de que la policía mate a la madre de Hinami y hiera a Tōka, Kaneki pide enfrentarse a los investigadores de ghouls y Tōka le entrega su máscara.</desc>
+    <episode-num system="xmltv_ns">0.6/12.</episode-num>
+  </programme>
+  <programme start="20251017093652 +0000" stop="20251017100809 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Círculo</sub-title>
+    <desc>Tras caer en una trampa de los investigadores de ghouls, Tōka trata de vengar a la madre de Hinami contra Mado mientras Kaneki se enfrenta a Amon.</desc>
+    <episode-num system="xmltv_ns">0.7/12.</episode-num>
+  </programme>
+  <programme start="20251017100809 +0000" stop="20251017103950 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Incinerador</sub-title>
+    <desc>Riko y Reg llegan hasta la segunda capa, el Bosque de la Tentacion. Los dos se sienten aliviados de haber dejado atrás a sus perseguidores. Pero mientras atraviesan el bosque, escuchan un grito de auxilio. La fuente de la voz es un velador de cadáveres, que imita la voz de los exploradores de cuevas. Mientras lo observan, Riko es atrapada por otro velador de cadáveres y Reg corre en su ayuda.</desc>
+    <episode-num system="xmltv_ns">0.4/13.</episode-num>
+  </programme>
+  <programme start="20251017103950 +0000" stop="20251017111129 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Campamento del Buscador</sub-title>
+    <desc>Cuando Riko y Reg finalmente llegan al Campamento del Buscador en la segunda capa son recibidos por la Silbato Blanco Ozen. Riko da las gracias a Ozen por haberla llevado hasta la superficie en el Recipiente Repelente de Maldicion, pero Ozen le responde con un comentario</desc>
+    <episode-num system="xmltv_ns">0.5/13.</episode-num>
+  </programme>
+  <programme start="20251017111129 +0000" stop="20251017114302 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Mision imposible</sub-title>
+    <desc>Despues de escapar del ataque del departamento de ejecuciones, los Akudama llegan por fin a la guarida del Gato Negro, donde repasan los detalles del plan de ataque al Shinkansen. Para ello tendrán que superar la vigilancia extrema de la estacion de Kansai y cumplir el objetivo antes de que se termine el tiempo del que disponen.</desc>
+    <episode-num system="xmltv_ns">0.2/12.</episode-num>
+  </programme>
+  <programme start="20251017114302 +0000" stop="20251017121644 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Speed</sub-title>
+    <desc>El Shinkansen sale de la estacion de Kansai y, a pesar del poco tiempo que les queda, si consiguen entregarle la caja fuerte al Gato Negro, la mision será un exito. Sin embargo, tan solo disponen de 10 minutos más. Si superan ese tiempo, entrarán en la devastada zona de aislamiento total, donde lo único que reina es la muerte... y para terminar de complicar la situacion, el dúo de ejecutores viaja en el mismo convoy.</desc>
+    <episode-num system="xmltv_ns">0.3/12.</episode-num>
+  </programme>
+  <programme start="20251017121644 +0000" stop="20251017140045 +0000" channel="Anime Vision.es1">
+    <title>Goblin Slayer: La Corona del Goblin</title>
+    <sub-title></sub-title>
+    <desc>El grupo de Goblin Slayer se dirige a las montañas nevadas del norte despues de recibir una peticion para encontrar a una noble espadachina desaparecida. “¿Puedo pedirte que acudas en ayuda de la desafortunada muchacha?”. Todo comienza con la peticion de la Doncella de la Espada a Goblin Slayer para que acuda al rescate de una noble espadachina desaparecida. Y así, Goblin Slayer y su grupo se dirigen a las montañas del norte, donde eliminan a una avanzadilla de goblins que había atacado una aldea. Sin embargo, mientras Goblin visita la aldea atacada y su misteriosa capilla, comienzan a inquietarle el inusual comportamiento de la hueste de goblins. Con el proposito de salvar a la espadachina prisionera, Goblin Slayer, la Sacerdotisa y sus compañeros se enfrentan a un ejercito de goblins liderados por alguien que cuenta con una fuerza abrumadora en una antigua fortaleza rodeada de nieve.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251017140045 +0000" stop="20251017143012 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Las aventuras de Mikuru Episodio 00</sub-title>
+    <desc>¡El blockbuster que nadie esperaba a pesar del hype! Tras muchos obstáculos, la película de la Brigada SOS se estrena desconcertando al público desde el primer minuto. ¡Y permitidnos enfatizar que se trata de una obra de ficcion!</desc>
+    <episode-num system="xmltv_ns">0.24/28.</episode-num>
+  </programme>
+  <programme start="20251017143012 +0000" stop="20251017150016 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Live Alive</sub-title>
+    <desc>Despues de confirmar que la realidad se mantiene solida, Kyon vagabundea por el festival cultural. Entonces ve, a Haruhi salir al escenario y cantar acompañada por Nagato a la guitarra haciendo que todo el gimnasio se ponga en pie.</desc>
+    <episode-num system="xmltv_ns">0.25/28.</episode-num>
+  </programme>
+  <programme start="20251017150016 +0000" stop="20251017153006 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Rakia</sub-title>
+    <desc>Despues de que la diosa Ishtar sea deportada a los cielos, Haruhime entra a formar parte de la Familia Hestia. Mientras, las abrumadoras fuerzas de Orario consiguen rechazar el intento de invasion del reino de Rakia de la Familia Ares.</desc>
+    <episode-num system="xmltv_ns">1.10/13.</episode-num>
+  </programme>
+  <programme start="20251017153006 +0000" stop="20251017160021 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Cancion de amor</sub-title>
+    <desc>Bell y Ais se refugian en la aldea de Eras en la que Hestia se recupera de su enfrentamiento contra Ares. Mientras aguardan su recuperacion, se acerca el día en el que la aldea celebra el festival para rezar por una buena cosecha.</desc>
+    <episode-num system="xmltv_ns">1.11/13.</episode-num>
+  </programme>
+  <programme start="20251017160021 +0000" stop="20251017163012 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight VI</sub-title>
+    <desc>Según Koizumi, Kyon y sus amigos ya han vivido las mismas dos semanas más de 15,000 veces. Al contrario que los otros, Nagato recuerda todas y cada una de ellas, lo que lleva a Kyon a desear hacer algo que les saque del bucle eterno.</desc>
+    <episode-num system="xmltv_ns">0.16/28.</episode-num>
+  </programme>
+  <programme start="20251017163012 +0000" stop="20251017170011 +0000" channel="Anime Vision.es1">
+    <title>La melancolía de Haruhi Suzumiya</title>
+    <sub-title>Endless Eight VII</sub-title>
+    <desc>Antes de que suene el telefono, Kyon ya sabe que será Haruhi y lo que le va a decirle y así la vida cotidiana sigue con una sensacion de dejà vu. Las mismas vacaciones se repiten eternamente, pero Kyon es incapaz de hacer nada.</desc>
+    <episode-num system="xmltv_ns">0.17/28.</episode-num>
+  </programme>
+  <programme start="20251017170011 +0000" stop="20251017173021 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>Si deseas la dañina pudricion de las raíces, no bloquees la boca del ánfora</sub-title>
+    <desc>El Jefe participa en el torneo de megalobox con la esperanza de comprar la propiedad en la que reside su comunidad. Sin embargo, Hikawa envía a sus secuaces para acosar a los residentes de la casa y ponerlos en contra del Jefe.</desc>
+    <episode-num system="xmltv_ns">1.2/13.</episode-num>
+  </programme>
+  <programme start="20251017173021 +0000" stop="20251017180032 +0000" channel="Anime Vision.es1">
+    <title>MEGALOBOX: NOMAD</title>
+    <sub-title>Si la flor del alma florece, el amor no se perderá</sub-title>
+    <desc>El Jefe y Joe están listos para la final y solo Mamiya el loco de Hikawa se interpone en su camino hacia la victoria. En medio de una feroz pelea en la que ambas partes se niegan a dar marcha atrás, Joe le hace cierta promesa al Jefe.</desc>
+    <episode-num system="xmltv_ns">1.3/13.</episode-num>
+  </programme>
+  <programme start="20251017180032 +0000" stop="20251017183014 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Homeostasis de lo intangible</sub-title>
+    <desc>Daru y Okabe acaban contándole a Faris sobre los mensajes que envían al pasado. Luego, en la mesa redonda, Okabe menciona la posibilidad de enviar al pasado cosas materiales con el telefono microondas (nombre provisional), pero Kurisu la rechaza. Al ir a confirmar como va el hackeo con Daru, Okabe se da cuenta de que el IBN5100 ya no está en el laboratorio. Los D-mails que han enviado hasta el momento han ido cambiando el pasado poco a poco, y han llegado a una historia en la que no se han hecho con el IBN5100. Okabe intenta volver a ir a por el IBN5100, pero en el templo Yanabayashi, donde lo habían ofrendado, ya no lo tienen. Okabe y los demás se dirigen a casa de Faris para hablarle de esto, ya que ella sabe quien era su dueño original. Faris les propone que, a cambio de darles esta informacion, ellos le dejen enviar un D-mail a hace 10 años. Okabe se ve obligado a aceptar, y cuando envía el D-mail su Reading Steiner se vuelve a activar. Ante sus ojos aparece el padre de Faris, que hacía un momento no estaba ahí. Al salir de casa de Faris, les espera este escenario: En Akihabara no hay ninguna tienda moe, se ha convertido en un barrio donde comprar electronica.</desc>
+    <episode-num system="xmltv_ns">0.8/26.</episode-num>
+  </programme>
+  <programme start="20251017183014 +0000" stop="20251017190025 +0000" channel="Anime Vision.es1">
+    <title>STEINS; GATE</title>
+    <sub-title>Homeostasis complementaria</sub-title>
+    <desc>Aunque Faris ha eliminado todo el moe de Akihabara con su D-mail y el May Queen Nyan2 ya no existe, siguen conociendo a Faris, y su relacion con ella no ha cambiado mucho. Sin embargo, los D-mails sí que han cambiado el sexo de Luka, y Okabe, sin saberlo, la hiere. Luego sale a montar en bici con Suzuha, y esta le cuenta que ha venido a Akihabara buscando a su padre, y que puede que al día siguiente se encuentre con el. Como Suzuha se va a ir pase lo que pase, Okabe les propone a los demás miembros del laboratorio celebrar una fiesta de despedida, pero entonces recibe un mensaje de un remitente desconocido que reza “te estoy vigilando” y la foto de una gelatina roja. Aunque esto le causa desasosiego, sigue preparando la fiesta de despedida. Sin embargo, Suzuha no se presenta en el laboratorio, y tras irse a regañadientes, Okabe recibe un mensaje de despedida de Suzuha. Incapaz de aceptar este repentino adios, se envía un mensaje a sí mismo medio día antes, diciendose que siga a Suzuha. Como resultado, Suzuha decide seguir buscando a su padre un poco más.</desc>
+    <episode-num system="xmltv_ns">0.9/26.</episode-num>
+  </programme>
+  <programme start="20251017190025 +0000" stop="20251017193014 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Jaula</sub-title>
+    <desc>Mientras Hinami, Tōka y Kanemi se rehacen de la última batalla, Amon es trasladado al Distrito 11, donde la policía está teniendo serios problemas.</desc>
+    <episode-num system="xmltv_ns">0.8/12.</episode-num>
+  </programme>
+  <programme start="20251017193014 +0000" stop="20251017200021 +0000" channel="Anime Vision.es1">
+    <title>Tokyo Ghoul</title>
+    <sub-title>Aogiri</sub-title>
+    <desc>Los miembros del Árbol Aogiri, una faccion de ghouls subterránea, secuestra a Kaneki con la intencion de averiguar cuál es su conexion con Rize.</desc>
+    <episode-num system="xmltv_ns">0.9/12.</episode-num>
+  </programme>
+  <programme start="20251017200021 +0000" stop="20251017203020 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>La Soberana Inamovible</sub-title>
+    <desc>Tras la partida de Riko y Reg, Hablog regresa a Orth. Allí les cuenta a Nat y a Shiggy sus experiencias con la Silbato Blanco Ozen. Al mismo tiempo, Ozen revela la verdad acerca del Recipiente Repelente de Maldicion. Les explica que en realidad no mantiene a salvo la maldicion, sino que hace que las criaturas fallecidas vuelvan a moverse. Poco despues, Reg no puede seguir soportando el desprecio con el que Ozen trata a Riko y decide intervenir.</desc>
+    <episode-num system="xmltv_ns">0.6/13.</episode-num>
+  </programme>
+  <programme start="20251017203020 +0000" stop="20251017210021 +0000" channel="Anime Vision.es1">
+    <title>MADE IN ABYSS</title>
+    <sub-title>Entrenamiento de supervivencia</sub-title>
+    <desc>La Silbato Blanco Ozen ordena a Riko y a Reg que realicen un entrenamiento de supervivencia. Ambos tienen que sobrevivir en un ambiente hostil durante 10 días con un equipamiento escaso para demostrar su habilidad como exploradores de cuevas. Mientras buscan agua potable, un hipo les ataca inesperadamente. Al principio la situacion parece desesperada, pero entonces Riko y Reg idean un plan y usan las heces de una hembra para confundir al hipo.</desc>
+    <episode-num system="xmltv_ns">0.7/13.</episode-num>
+  </programme>
+  <programme start="20251017210021 +0000" stop="20251017213017 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Pena de muerte (Dead Man Walking)</sub-title>
+    <desc>Los Akudama logran abrir la caja fuerte y allí descubren que había una joven pareja de hermanos. Mision cumplida. Dispuestos a volver a sus respectivas vidas... descubren que la mision aún no ha terminado y que el objetivo es llevar sanos y salvos al niño y la niña al lugar acordado, en Kansai. Sin embargo, no pueden cambiar el rumbo del tren y se acercan peligrosamente a la zona de aislamiento total. En ese instante, aparece cierta persona...</desc>
+    <episode-num system="xmltv_ns">0.4/12.</episode-num>
+  </programme>
+  <programme start="20251017213017 +0000" stop="20251017220007 +0000" channel="Anime Vision.es1">
+    <title>Akudama Drive</title>
+    <sub-title>Brother</sub-title>
+    <desc>A punto de regresar a Kansai, el maestro ejecutor logra alcanzar a los Akudama, a pesar de que aún no está curado por completo, dispuesto a jugarse el honor para acabar con los maleantes. El luchador no se lo piensa dos veces antes de volver a la refriega, pero los Akudama empiezan a retroceder ante el poder del policía. Mientras el maleante insiste en que deberían retirase, el luchador es incapaz de dejar a medias una pelea y se fuerza a continuar el intercambio de golpes bañado por el orgullo y la determinacion...</desc>
+    <episode-num system="xmltv_ns">0.5/12.</episode-num>
+  </programme>
+  <programme start="20251017220007 +0000" stop="20251017223013 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El monstruo del abismo</sub-title>
+    <desc>Hajime es empujado a las profundidades de un laberinto por la traicion de uno de sus compañeros. Su debilidad como Sinergista y el ataque de los monstruos del abismo lo llevan al borde de la desesperacion tanto física como mentalmente.</desc>
+    <episode-num system="xmltv_ns">0.0/13.</episode-num>
+  </programme>
+  <programme start="20251017223013 +0000" stop="20251017230004 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La caja de Pandora</sub-title>
+    <desc>Tras sufrir una transformacion, Hajime usa la pistola Donner forjada con sus nuevas habilidades para derrotar y devorar a un monstruo tras otro haciendose cada vez más fuerte. Mientras, Kaori se niega a aceptar la perdida de Hajime.</desc>
+    <episode-num system="xmltv_ns">0.1/13.</episode-num>
+  </programme>
+  <programme start="20251017230004 +0000" stop="20251017233018 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La princesa vampiro dorada</sub-title>
+    <desc>Se produce el encuentro predestinado entre Hajime y la princesa vampiro Yue. Dado que ambos han sido traicionados, deciden confiar el uno en el otro y descender juntos aún más en el laberinto para hallar el camino hasta la superficie.</desc>
+    <episode-num system="xmltv_ns">0.2/13.</episode-num>
+  </programme>
+  <programme start="20251017233018 +0000" stop="20251018000016 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El guardián de las profundidades</sub-title>
+    <desc>Hajime y Yue alcanzan el nivel 100 del Gran Laberinto de Orcus, donde les espera la Hidra, un monstruo gigante cuya fuerza rivaliza con el poder combinado de ambos. En medio de la feroz batalla, Hajime se sacrifica para salvar a Yue.</desc>
+    <episode-num system="xmltv_ns">0.3/13.</episode-num>
+  </programme>
+  <programme start="20251018000016 +0000" stop="20251018003004 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La morada del Disidente</sub-title>
+    <desc>Tras haber caído en la batalla contra la Hidra, Hajime despierta en un extraño lugar conocido como la morada del Disidente. Aprovechando los conocimientos del lugar, Hajime y Yue tratan de encontrar un camino de vuelta a la superficie.</desc>
+    <episode-num system="xmltv_ns">0.4/13.</episode-num>
+  </programme>
+  <programme start="20251018003004 +0000" stop="20251018010003 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La coneja inútil</sub-title>
+    <desc>Nada más salir del Gran Laberinto de Orcus, Hajime y Yue encuentran a una chica conejo que les pide que salven a su familia. Finalmente, deciden aceptar su peticion a cambio de una pista sobre la ubicacion del siguiente Gran Laberinto.</desc>
+    <episode-num system="xmltv_ns">0.5/13.</episode-num>
+  </programme>
+  <programme start="20251018010003 +0000" stop="20251018013016 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El Gran Laberinto de Reisen</sub-title>
+    <desc>Hajime, Yue y Shea visitan el Cañon de Reisen, donde descubren accidentalmente la entrada a otro laberinto. Una vez dentro, comienzan a caer en las muchas trampas de Miledi Reisen, la extravagante maestra del laberinto.</desc>
+    <episode-num system="xmltv_ns">0.6/13.</episode-num>
+  </programme>
+  <programme start="20251018013016 +0000" stop="20251018020009 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Reunion con el pasado</sub-title>
+    <desc>El gremio de aventureros de Fuhren solicita ayuda al grupo de Hajime para encontrar a un aventurero desaparecido en las montañas. De camino hacia allí, Hajime se reúne inesperadamente con algunos de sus compañeros de clase.</desc>
+    <episode-num system="xmltv_ns">0.7/13.</episode-num>
+  </programme>
+  <programme start="20251018020009 +0000" stop="20251018023010 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El matadragones</sub-title>
+    <desc>El grupo de Hajime une fuerzas con sus antiguos compañeros de clase y la profesora Aiko para encontrar al aventurero desaparecido. Cuando finalmente dan con el, este les explica que su grupo fue atacado por un dragon negro.</desc>
+    <episode-num system="xmltv_ns">0.8/13.</episode-num>
+  </programme>
+  <programme start="20251018023010 +0000" stop="20251018030014 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La espada de la diosa</sub-title>
+    <desc>La hermosa Tio del pueblo dragon informa a Hajime y compañía que una horda de monstruos se dispone a atacar el pueblo de Ur. Al llegar allí, Hajime consagra a la profesora Aiko como diosa de la fertilidad frente a los habitantes del pueblo.</desc>
+    <episode-num system="xmltv_ns">0.9/13.</episode-num>
+  </programme>
+  <programme start="20251018030014 +0000" stop="20251018033015 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El día libre de los monstruos</sub-title>
+    <desc>Tras su regreso triunfal a Fuhren, Hajime decide tener una cita con Shea como agradecimiento por salvar a Aiko. Durante la cita, Hajime detecta la presencia a de alguien en las alcantarillas y encuentran a Myu, una niña del pueblo del mar.</desc>
+    <episode-num system="xmltv_ns">0.10/13.</episode-num>
+  </programme>
+  <programme start="20251018033015 +0000" stop="20251018040007 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La sombra que se avecina</sub-title>
+    <desc>Mientras Hajime y su grupo visitan el gremio de aventureros de Horaud, aparece uno de sus antiguos compañeros de clase. Este busca desesperadamente ayuda para salvar a sus amigos que están siendo atacados por demonios en el laberinto.</desc>
+    <episode-num system="xmltv_ns">0.11/13.</episode-num>
+  </programme>
+  <programme start="20251018040007 +0000" stop="20251018043007 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>El mejor siendo el peor</sub-title>
+    <desc>Mientras Kaori y sus compañeros de clase libran una batalla desesperada contra Cattleya de la raza de los demonios, ante ellos aparece un Hajime Nagumo irreconocible que supera fácilmente a los monstruos con un poder abrumador.</desc>
+    <episode-num system="xmltv_ns">0.12/13.</episode-num>
+  </programme>
+  <programme start="20251018043007 +0000" stop="20251018062851 +0000" channel="Anime Vision.es1">
+    <title>Blue Thermal</title>
+    <sub-title></sub-title>
+    <desc>Tamaki está emocionada ante la perspectiva de la vida universitaria, sin embargo, su vida cambia drásticamente cuando se enamora del cielo. Tamaki Tsuru se muda a Tokio en busca de una vida universitaria normal llena de actividades de clubes y romance. Pero poco despues de ingresar en la universidad, daña accidentalmente el planeador de un chico llamado Sorachi y acaba trabajando como asistente en el club de aviacion para pagar los daños. A pesar de que no está contenta con la situacion, desde que despega por primera vez en el planeador pilotado por Kuramochi, el capitán del club, queda cautivada por la belleza que se extiende en el cielo. Cada vez más fascinada con el mundo del cielo, pronto se enfrenta a su primer gran reto: la competicion de novatos. ¿Será Tamaki capaz de superar la presion y atrapar la corriente ascendente milagrosa de “Blue Thermal”, el viento que puede hacerte feliz?</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251018062851 +0000" stop="20251018070016 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Aspirante</sub-title>
+    <desc>Los hermanos unen sus fuerzas con Stephanie Dola, la nieta del antiguo rey de Elchea, para salvar lo que queda de humanidad de su condenacion.</desc>
+    <episode-num system="xmltv_ns">0.1/12.</episode-num>
+  </programme>
+  <programme start="20251018070016 +0000" stop="20251018073011 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Experto</sub-title>
+    <desc>En plena coronacion, Chlammy acepta el desafío que le lanzan Shiro y Sora tras acusarla de asegurarse su posicion en el trono con la ayuda de los elfos.</desc>
+    <episode-num system="xmltv_ns">0.2/12.</episode-num>
+  </programme>
+  <programme start="20251018073011 +0000" stop="20251018080001 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Gran Maestro</sub-title>
+    <desc>Tras derrotar a Chlammy, los hermanos no se ponen de acuerdo sobre cuál de los dos debe coronarse Rey y comienzan a jugar entre ellos para decidirlo.</desc>
+    <episode-num system="xmltv_ns">0.3/12.</episode-num>
+  </programme>
+  <programme start="20251018080001 +0000" stop="20251018083004 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Plaza debil</sub-title>
+    <desc>Los nuevos reyes de Elchea delegan las responsabilidades administrativas en Stephanie para dedicarse a recopilar informacion sobre sus enemigos.</desc>
+    <episode-num system="xmltv_ns">0.4/12.</episode-num>
+  </programme>
+  <programme start="20251018083004 +0000" stop="20251018085957 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Interesante</sub-title>
+    <desc>Con el objetivo de recuperar la valiosa biblioteca de Elchea, Shiro y Sora desafían a Jibril a un juego de encadenar palabras que se materializan.</desc>
+    <episode-num system="xmltv_ns">0.5/12.</episode-num>
+  </programme>
+  <programme start="20251018085957 +0000" stop="20251018093016 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Sacrificio</sub-title>
+    <desc>Los hermanos se enfrentan al desafío de los Hombre Bestia, una raza que lleva invicta decadas y borra los recuerdos de todos aquellos que derrotan.</desc>
+    <episode-num system="xmltv_ns">0.6/12.</episode-num>
+  </programme>
+  <programme start="20251018093016 +0000" stop="20251018100011 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Falso Final</sub-title>
+    <desc>Shiro, Sora, Steph y Jibril entran en la embajada de la nacion de los Hombres Bestia para lanzar un desafío formal con el destino de la humanidad en juego.</desc>
+    <episode-num system="xmltv_ns">0.7/12.</episode-num>
+  </programme>
+  <programme start="20251018100011 +0000" stop="20251018103033 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Paseo por el cielo</sub-title>
+    <desc>Al comprender que es la única que recuerda a su hermano, Shiro descubre que Sora ha sido prácticamente borrado de la existencia tras jugarse su identidad.</desc>
+    <episode-num system="xmltv_ns">0.8/12.</episode-num>
+  </programme>
+  <programme start="20251018103033 +0000" stop="20251018110012 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Rosa azul</sub-title>
+    <desc>Cuando comienza el juego contra los Hombres Bestia, los hermanos se quedan paralizados al descubrir que el campo de batalla se asemeja mucho a Tokyo.</desc>
+    <episode-num system="xmltv_ns">0.9/12.</episode-num>
+  </programme>
+  <programme start="20251018110012 +0000" stop="20251018113007 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Gigante asesino</sub-title>
+    <desc>Tras recuperar la compostura, Shiro y Sora, con la ayuda de Jibril, se enfrentan a Izuna en un juego de polis y ladrones en el que parece imposible ganar.</desc>
+    <episode-num system="xmltv_ns">0.10/12.</episode-num>
+  </programme>
+  <programme start="20251018113007 +0000" stop="20251018120024 +0000" channel="Anime Vision.es1">
+    <title>No game no life</title>
+    <sub-title>Regla número 10</sub-title>
+    <desc>Sora y Shiro caen derrotados frente al abrumador poder de Izuna, pero los hermanos aún se guardan un as en la manga en la forma de Steph.</desc>
+    <episode-num system="xmltv_ns">0.11/12.</episode-num>
+  </programme>
+  <programme start="20251018120024 +0000" stop="20251018140009 +0000" channel="Anime Vision.es1">
+    <title>Promare</title>
+    <sub-title></sub-title>
+    <desc>Han pasado 30 años desde la aparicion de los Burnish, una raza de seres mutantes capaces de controlar el fuego que desataron una gran tormenta de llamas que devasto la mitad del mundo. Cuando aparece un grupo de mutantes aún más agresivos conocidos como Mad Burnish, lo único que se interpone entre ellos y la destruccion total es Burning Rescue, una brigada de bomberos de elite anti-Burnish fundada por Kray Foresight, el gobernador de la República de Promepolis. Precisamente su miembro más novato, el apasionado Galo Thymos, es capaz de capturar a Lio Fiota, la líder de los Mad Burnish. Sin embargo, Lio escapa y al seguirla hasta su escondite, Galo descubre una impactante verdad acerca de los Burnish y la existencia de un terrible plan a escala global…</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251018140009 +0000" stop="20251018143011 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>El aventurero Bell Cranel</sub-title>
+    <desc>La ciudad laberinto de Orario debe su nombre a la Mazmorra que hay en ella. En el quinto nivel de la misma, un nuevo aventurero llamado Bell Cranel es acorralado por un gran peligro. Se encuentra con un minotauro, un monstruo de gran tamaño que no debería aparecer en los niveles superiores. Bell no tiene más remedio que huir. Cuando está a punto de perder la vida, un espadazo acaba con el minotauro en un instante. La portadora de dicha espada es la Princesa de la Espada, Aiz Wallenstein, una distinguida aventurera de primera clase de la ciudad de Orario. Su magnífica destreza con la espada y su espectacular belleza roban el corazon de Bell. El encuentro fortuito con Aiz hace que Bell adquiera una habilidad llamada Realis Fleuze. Dicha habilidad aumenta la rapidez de su desarrollo y sus efectos duran lo mismo y son tan intensos como sus sentimientos. Sin embargo, Hestia, la diosa de Bell, es algo celosa y se lo esconde. Más tarde, un compañero de Aiz se ríe de Bell y este sale corriendo. Va a la Mazmorra a luchar contra los monstruos… para acercarse un poco más a la Princesa de la Espada.</desc>
+    <episode-num system="xmltv_ns">0.0/14.</episode-num>
+  </programme>
+  <programme start="20251018143011 +0000" stop="20251018150022 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>La feria de los monstruos</sub-title>
+    <desc>Gracias a la habilidad Realis Fleuze, la progresion de Bell es extraordinaria. Todo ello es fruto de sus sentimientos hacia Aiz. A pesar de no sentirse comoda con la situacion, Hestia decide apoyar el deseo del joven de hacerse más fuerte. Bell le promete a Hestia que nunca la abandonará. A la mañana siguiente, Bell regresa a Patrona de la Fertilidad para pedir disculpas por haber huido la noche anterior. Mia anima cariñosamente a Bell a seguir adelante y le dice que, aunque se burlen de el, volver con vida de la Mazmorra ya es una victoria. Despues de recibir las palabras de cariño de Mia y Syl, Bell se dirige a la Mazmorra con determinacion. “¡Quiero ayudar a Bell! ¡Odio no poder hacer nada!...” dice Hestia cuando le pide a Hephaestus, la Forjadora divina del Cielo, que cree un arma para Bell. Ante la insistencia de la pequeña diosa, Hephaestus acepta. Mientras están forjando el arma, la cosa se complica en la Feria de los Monstruos. Hestia coge el arma recien forjada y se reúne con Bell para disfrutar del evento. Pero no hay tiempo, ya que un monstruo de gran tamaño que ha escapado de la feria aparece ante ellos.</desc>
+    <episode-num system="xmltv_ns">0.1/14.</episode-num>
+  </programme>
+  <programme start="20251018150022 +0000" stop="20251018153012 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>El cuchillo de Hestia</sub-title>
+    <desc>El Espalda plateada sigue a Bell y Hestia hasta la calle Dedalo. Bell la ayuda a escapar. Entonces recuerda la primera vez que llego a Orario. Fue rechazado por numerosas familias y Hestia fue la única que lo recibio con una sonrisa. Bell se enfrenta solo al monstruo para proteger a su querida diosa. Sin embargo, la diferencia de poder entre el monstruo de gran tamaño y el es evidente. Bell es acorralado. Sin fuerzas, sin arma y cuando está preparado para lo peor… Hestia acude en su ayuda. Bell ha prometido no abandonar nunca a Hestia. Cuando se da cuenta de que ha estado a punto de romper su promesa, se retira del combate momentáneamente y se esconde junto a Hestia. Ella le da el cuchillo En este está el sello de la Familia Hephaestus, prueba de que el arma es un artículo raro forjado por esa familia. Cuando termina la actualizacion de su estado, Bell se enfrenta nuevamente al Espalda plateada. Finalmente el cuchillo, que representa el lazo que une a Bell y Hestia, atraviesa eficazmente el pecho del monstruo.</desc>
+    <episode-num system="xmltv_ns">0.2/14.</episode-num>
+  </programme>
+  <programme start="20251018153012 +0000" stop="20251018160022 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>La porteadora debil</sub-title>
+    <desc>Bell informa a Eina de que ha llegado al septimo nivel. Ella lleva a Bell a una tienda de armas yh equipamiento de la Familia Hephaestus para que mejore su equipo. Bell elije una armadura de las más baratas de entre las expuestas. Eina, además, le regala una proteccion para el antebrazo. Preocupada por su bienestar, le sugiere que contrate a un porteador. De vuelta a casa, Bell rescata a una niña de raza pallum que se ha metido en un lío con un aventurero. Sin embargo ella, asustada, huye tambien de el. A la mañana siguiente Liliruca Arde, una cinántropa (muchacha canina), va a hablar con Bell. Ella está buscando a un muchacho para que la contrate como porteadora. Como se muestra muy insistente, finalmente el accede a su peticion. Juntos consiguen una enorme cantidad de dinero gracias a su trabajo. Por otro lado, hay un inquietante rumor sobre la Familia Soma, a la cual pertenece Lili. Más tarde, Bell se percata de que ha extraviado el cuchillo de Hestia. Finalmente descubren que el arma está en manos de la pallum. Syr y Ryuu recuperan el cuchillo, pero todo este asunto traerá cola.</desc>
+    <episode-num system="xmltv_ns">0.3/14.</episode-num>
+  </programme>
+  <programme start="20251018160022 +0000" stop="20251018163009 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Grimorio</sub-title>
+    <desc>Despues de ganar la cantidad más grande de dinero de la historia de la Familia Hestia, Bell invita a su diosa a comer. Entonces son atosigados por un monton de curiosos y energicos dioses. Lili mira el cielo nocturno y se pregunta que tienen de bueno los aventureros… Los mismos de su propia Familia Soma que la explotan y le hacen daño. Para poder huir de esta situacion va a intentar hacerse con el cuchillo de Bell a la proxima oportunidad que se le presente. A la mañana siguiente van de expedicion a la Mazmorra. Bell toma prestado un libro en la posada Patrona de la Fertilidad. Dicho libro resulta ser un grimorio de la diosa Freya. Bell aprende a usar la magia gracias al poder del grimorio y se dirige a la Mazmorra para probarla… pero se le acaba la energía espiritual y pierde el conocimiento (mind down). Cuando despierta tiene la cabeza sobre las rodillas de Aiz. Al darse cuenta vuelve a huir rápido como el rayo. A la mañana siguiente, Bell se dispone a volver a entrar en la Mazmorra cuando se topa con Ged, el antiguo jefe de Lili. Este intenta convencerlo para que le ayude a robar los objetos de Lili, pero obviamente Bell se niega. Lili no presencia el final de su conversacion…</desc>
+    <episode-num system="xmltv_ns">0.4/14.</episode-num>
+  </programme>
+  <programme start="20251018163009 +0000" stop="20251018170019 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>La razon</sub-title>
+    <desc>Embriagados por el licor de los Soma, los miembros de dicha familia solo desean obtener dinero. No sienten remordimientos a la hora de pisotear a sus propios compañeros o sacrificar a otros. Todo es justificable si hace que puedan volver a probar ese licor. Lili sufrio mucho dentro de la Familia Soma. El origen de su odio hacia los aventureros viene de todas esas experiencias. Lili acompaña a Bell hasta el nivel 11, y entonces inicia su plan: atrae a unos monstruos hacia Bell para robarle el cuchillo de Hestia durante la batalla y lo consigue. Él no puede creer lo que acaba de pasar, mientras Lili ignora los gritos del joven y sale del nivel 11. Lili abandona a Bell y se dirige a la superficie. Ahí le espera Ged, el aventurero a quien Lili engaño. Seguidamente, los miembros de la Familia Soma le roban todos los objetos. Además, tambien le intentan arrebatar lo último que le queda, su vida, dejándola a la merced de los monstruos. Lili se dispone a aceptar el precio por haber engañado a Bell… Cuando de repente estalla una llamarada. Entonces aparece Bell, el aventurero a quien acaba de traicionar y abandonar. Llena de rabia, arrepentimiento, alivio y tristeza, Lili llora y le pide perdon, y se convierte en el primer miembro del grupo de Bell.</desc>
+    <episode-num system="xmltv_ns">0.5/14.</episode-num>
+  </programme>
+  <programme start="20251018170019 +0000" stop="20251018173003 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Aiz Wallenstein - La princesa de la espada</sub-title>
+    <desc>Lili se une finalmente al grupo de Bell, despues de una breve pelea con Hestia. El ambiente es un poco tenso, pero Bell se tranquiliza al ver que finalmente su diosa ha aceptado a Lili. Cuando Bell va al gremio a hablar con Eina ve que ella está con la persona a quien el más admira… Aiz. Y es en ese momento cuando por fin Bell es capaz de pedir perdon a Aiz por haber huido de ella tantas veces y darle las gracias por salvarle la vida. Nervioso mientras conversa con ella, Bell escucha la propuesta de Aiz… Empieza a despuntar el día. Bell está frente a su adorada Aiz WallensteinUn monton de chispas se desprenden de los golpes de sus armas. En realidad, la propuesta que le hace Aiz a Bell es ayudarle a entrenar. Este encaja con valor todos sus golpes. La tiene tan cerca, pero a la vez tan lejos... Aunque sean solo unos momentos, compartir ese tiempo con la persona admirada le hace más fuerte. Desconocen que al mismo tiempo, en el interior de la Mazmorra, un monstruo tambien está entrenando para ser más fuerte…</desc>
+    <episode-num system="xmltv_ns">0.6/14.</episode-num>
+  </programme>
+  <programme start="20251018173003 +0000" stop="20251018180000 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Argonauta, el deseo de ser un heroe</sub-title>
+    <desc>Es el último día de entrenamiento con Aiz. Bell muestra pequeños avances. Al finalizar se marca una nueva meta… Por mucha diferencia que haya entre los dos, Bell alcanzará a Aiz. La vida vuelve a la normalidad. La misma Mazmorra, la misma búsqueda… Entonces algo rompe el silencio y aparece delante de Bell en el nivel 9. Es un minotauro, el origen de su trauma psicologico. No es un rival al que un aventurero de nivel 1 pueda vencer. Además, el minotauro empuña una espada de gran tamaño, impropia de un monstruo. Pero ante la posibilidad de ser aniquilado juntamente con Lili, Bell no tiene más opcion que luchar… Por un segundo le da la sensacion de que pierde la vida. Los nervios de Bell al ser acorralado son muy grandes. Cuando se prepara para el combate inevitable, aparece la Princesa de la Espada, Aiz Wallenstein, delante de sus ojos. Bell le dice a Aiz que no quiere que le salve más y ataca al minotauro. Usa todo su poder, literalmente, y de forma increíble consigue una victoria milagrosa.</desc>
+    <episode-num system="xmltv_ns">0.7/14.</episode-num>
+  </programme>
+  <programme start="20251018180000 +0000" stop="20251018182955 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>El forjador Welf Crozzo</sub-title>
+    <desc>Bell sube de nivel despues de una dura batalla a vida o muerte contra el minotauro. El joven ha conseguido subir de nivel en el intervalo de tiempo más corto de la historia y se hace famoso en Orario. Un poco deprimido por haber recibido el sobrenombre de Novatillo decide ir a renovar la armadura que se le rompio en la pelea. Quiere comprarla del mismo forjador, Welf Crozzo, y cuando va a la tienda se lo encuentra. Bell acepta la propuesta de Welf de firmar un contrato de exclusividad con el. A cambio, acepta su peticion de dejarle formar parte de su grupo y así conseguir la habilidad de forjador. Ahora el grupo de Bell tiene tres miembros. Welf le da las gracias a Bell forjándole un arma a partir del cuerno del minotauro. Mientras tanto, Welf le habla de su habilidad para crear espadas mágicas y de la prosperidad de la cual gozaba cuando ejercía como forjador. Welf se sincera con Bell y le explica que las espadas mágicas se rompen abandonando al portador a su suerte, motivo por el que las odia y no quiere volver a crear ninguna más. Finalmente, termina de forjar el cuchillo Ushiwakamaru y se lo entrega a Bell.</desc>
+    <episode-num system="xmltv_ns">0.8/14.</episode-num>
+  </programme>
+  <programme start="20251018182955 +0000" stop="20251018190007 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Procesion de monstruos</sub-title>
+    <desc>El grupo de Bell llega al nivel intermedio número 13, donde los aventureros adultos ponen a prueba su fuerza. A pesar de haberse preparado poco, son capaces de arreglárselas bastante bien. Sin dudarlo un instante, eligen el mejor espacio y empiezan a luchar contra los monstruos. Es entonces cuando se encuentran con unos miembros de la Familia Takemikazuchi que cargan a un herido y huyen de unos monstruos. Sin tener en cuenta al grupo de Bell, pasan de largo y los monstruos que los persiguen se juntan con los que combaten contra Bell. Bell se acuerda de la advertencia de Ryuu, cuando esta le dijo que aprendería la importancia de que se le acumularan enemigos a traves de la experiencia. Como no paran de aparecer monstruos, al final el suelo termina cediendo y el grupo de Bell cae hasta el nivel 15. Ese sitio es demasiado para ellos y su vida corre peligro. Entonces Lili tiene una idea: bajar hasta el nivel 18, donde hay una zona segura. Han perdido muchos de sus objetos y Welf está malherido. En vez de emprender un largo camino hacia arriba es mejor seguir bajando a niveles inferiores. Bell acepta. En la superficie, Hestia, que conoce la situacion, decide organizar un equipo de búsqueda del que decide formar parte y entra ella tambien en la Mazmorra.</desc>
+    <episode-num system="xmltv_ns">0.9/14.</episode-num>
+  </programme>
+  <programme start="20251018190007 +0000" stop="20251018193010 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>El descanso subterráneo del guerrero</sub-title>
+    <desc>Hestia le pregunta a Hermes por que ha decidido colaborar con ellos en la mision de rescate de Bell, a lo que el dios le responde: “Quiero comprobar si es un receptáculo capaz de cargar con los tiempos”. Bell y los demás se dirigen hacia la zona segura del nivel 18. Para poder sobrevivir s embarcan en una aventura mortal. Welf y Lili agotan todas sus fuerzas y Bell decide cargar con ellos. Más adelante, ante los ojos de Bell se abre el camino que lleva hacia la zona segura, cuando de repente renace Goliat, el jefe del nivel… Bell usa las últimas fuerzas que le quedan para huir de Goliat. Mentalmente agotados, Bell y compañía caen hasta el nivel 18, donde los recogen Aiz Wallenstein y los otros miembros de la Familia Loki. Welf y Lili recuperan el conocimiento. Hestia y los demás tambien llegan a la zona segura y se reúnen con Bell. Llega el momento de descansar. Aiz le cuenta a Bell que existe una ciudad dentro de la Mazmorra llamada Rivira. A Bell le puede la curiosidad y deciden ir a visitarla al día siguiente.</desc>
+    <episode-num system="xmltv_ns">0.10/14.</episode-num>
+  </programme>
+  <programme start="20251018193010 +0000" stop="20251018200011 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Un espectáculo de malas intenciones</sub-title>
+    <desc>El grupo aprovecha para pasear por el paraíso del laberinto y visitar la ciudad de Rivira. Bell se toma su merecido descanso dentro de la Mazmorra. Incluso es invitado por Hermes a espiar a las chicas mientras se bañan. Bell acompaña a Ryuu hasta una tumba. Allí descansan sus antiguas compañeras. Por otro lado, Mord y los suyos beben en un bar. Están enfadados al ver que Bell ha llegado a ese nivel en tan poco tiempo y además es el invitado de la Familia Loki. Toda esa rabia oscurece la mente de los aventureros… Hestia ha sido secuestrada por los aventureros, que le piden a Bell un duelo a cambio de devolverle a la diosa sana y salva. Mord tiene un objeto mágico que le da la capacidad de volverse invisible. Bell recibe una paliza, pero aparecen los compañeros de Bell, incluida Lili, para salvarlos a Hestia y a el. Durante la batalla, Bell consigue contraatacar. Welf y Mikoto se unen a la lucha y se crea una batalla campal. Hestia libera su poder divino para calmarlos a todos. Aunque esa tranquilidad no dura mucho…</desc>
+    <episode-num system="xmltv_ns">0.11/14.</episode-num>
+  </programme>
+  <programme start="20251018200011 +0000" stop="20251018203039 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Familia Myth , el mito de las familias</sub-title>
+    <desc>Goliat, el jefe de nivel, aparece de repente en el paraíso del laberinto, seguido por un monton de feroces monstruos. Ante esta situacion excepcional, los aventureros deciden colaborar y formar un gran grupo de batalla para combatirlos. Se oyen los golpes de los filos de las espadas, el lanzamiento de las flechas… Finalmente, los magos consiguen cargar un gran conjuro de magia conjunto que le lanzan a Goliat. Desgraciadamente, ven como las partes del monstruo, que habían desaparecido por el impacto, se empiezan a regenerar… Es entonces cuando los aventureros se dan cuenta de lo terrible que se ha vuelto la situacion… En medio de la terrible situacion, Bell libera su habilidad de argonauta, el deseo de ser un heroe, y ataca al gran monstruo. Sin embargo, no es suficiente y el jefe del nivel contraataca duramente al joven, dejándolo inconsciente. Welf y Ryuu luchan desesperadamente, mientras una preocupada Hestia trata de despertar a Bell. Gracias a sus sentimientos, Bell abre los ojos. Bell aprovecha la oportunidad única que le han brindado sus compañeros para atacar el corazon del monstruo. Repite los ataques de argonauta sin cesar y finalmente le lanza una última embestida. La piedra mágica del corazon de Goliat se rompe y sus trozos vuelan y se desvanecen por el laberinto. Bell ha dado el primer paso en el camino de convertirse en heroe.</desc>
+    <episode-num system="xmltv_ns">0.12/14.</episode-num>
+  </programme>
+  <programme start="20251018203039 +0000" stop="20251018210000 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>OVA: ¿Que tiene de malo intentar buscar unos baños termales en una mazmorra?</sub-title>
+    <desc>Orario es la ciudad donde viven los aventureros y los dioses. Bajo sus cimientos está la Mazmorra, nido de monstruos. En ella tienen lugar todo tipo de intensas y ardientes aventuras. Un joven se abre camino y un dios escribe la historia del mito de las familias. El grupo de Cranel acaba de derrotar al jefe del nivel 18. Aún heridos, se disponen a volver a la superficie, pero siguen apareciendo monstruos, uno detrás de otro. Es entonces cuando la diosa Hestia descubre un territorio inexplorado. Allí encuentran unos baños termales que fluyen de la tierra. A pesar de ser un grupo fuerte que combina miembros de varias familias, todos ellos han tenido que viajar a pie y combatir en muchas batallas, por lo que el cansancio es notable. En vez de seguir, deciden tomarse un descanso. Bell, Hestia y los demás no dudan en disfrutar de lo que les ha brindado a tierra (¿o la Mazmorra?). Sin embargo, unos monstruos acuáticos los atacan en estas termas, tendiendoles una trampa. Instantes despues aparece el Señor de las termas y se produce una gran batalla. Bell y sus compañeros luchan ferozmente contra el monstruo, consiguen vencerlos y volver a la superficie.</desc>
+    <episode-num system="xmltv_ns">0.13/14.</episode-num>
+  </programme>
+  <programme start="20251018210000 +0000" stop="20251018213009 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>El banquete de los dioses</sub-title>
+    <desc>Durante una pequeña fiesta en la taberna, Bell cae en la provocacion de un aventurero de la Familia Apolo, lo que desemboca en una pelea. Poco despues, Bell y Hestia reciben una invitacion para un banquete organizado por Apolo.</desc>
+    <episode-num system="xmltv_ns">1.0/13.</episode-num>
+  </programme>
+  <programme start="20251018213009 +0000" stop="20251018220019 +0000" channel="Anime Vision.es1">
+    <title>Danmachi ¿Que tiene de malo intentar ligar en una mazmorra?</title>
+    <sub-title>Apolo</sub-title>
+    <desc>En la fiesta, Apolo propone un Juego de la guerra entre las dos familias con Bell en juego, pero Hestia lo rechaza categoricamente. Al día siguiente, la familia Apolo ataca la casa de Hestia y Bell y comienza a perseguirles por toda la ciudad.</desc>
+    <episode-num system="xmltv_ns">1.1/13.</episode-num>
+  </programme>
+  <programme start="20251018220019 +0000" stop="20251018223022 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Irregular</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.0/12.</episode-num>
+  </programme>
+  <programme start="20251018223022 +0000" stop="20251018230012 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Luz ardiente</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.1/12.</episode-num>
+  </programme>
+  <programme start="20251018230012 +0000" stop="20251018233006 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Blanco y negro</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.2/12.</episode-num>
+  </programme>
+  <programme start="20251018233006 +0000" stop="20251019000018 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Reunion</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.3/12.</episode-num>
+  </programme>
+  <programme start="20251019000018 +0000" stop="20251019003012 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Recuerdos del fondo del mar</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.4/12.</episode-num>
+  </programme>
+  <programme start="20251019003012 +0000" stop="20251019010002 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Alguien importante</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.5/12.</episode-num>
+  </programme>
+  <programme start="20251019010002 +0000" stop="20251019013001 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Una oscuridad inquietante</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.6/12.</episode-num>
+  </programme>
+  <programme start="20251019013001 +0000" stop="20251019020042 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Reunion con el pasado</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.7/12.</episode-num>
+  </programme>
+  <programme start="20251019020042 +0000" stop="20251019023011 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La invasion de la capital</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.8/12.</episode-num>
+  </programme>
+  <programme start="20251019023011 +0000" stop="20251019030015 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>La apostol de Dios</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.9/12.</episode-num>
+  </programme>
+  <programme start="20251019030015 +0000" stop="20251019033018 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Traicion</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.10/12.</episode-num>
+  </programme>
+  <programme start="20251019033018 +0000" stop="20251019040018 +0000" channel="Anime Vision.es1">
+    <title>Arifureta</title>
+    <sub-title>Un nuevo viaje</sub-title>
+    <desc></desc>
+    <episode-num system="xmltv_ns">1.11/12.</episode-num>
+  </programme>
+  <programme start="20251019040018 +0000" stop="20251019060801 +0000" channel="Anime Vision.es1">
+    <title>The Wonderland</title>
+    <sub-title></sub-title>
+    <desc>Tras descubrir que al otro lado de la puerta del sotano de la tienda de su tía hay un país de las maravillas, Akane se embarca en una aventura inolvidable. El día antes de su cumpleaños, la insegura Akane visita la tienda de antiguedades de su tía Chii en busca de un regalo. De repente, ante ella aparecen el misterioso alquimista Hippocrates y su aprendiz Pipo, quienes le piden desesperadamente que salve su mundo. A pesar de su reticencia, Akane se va arrastrada a traves de la puerta del sotano de la tienda hasta un autentico país de las maravillas repleto de criaturas fantásticas que desafían la imaginacion. Sin embargo, este mundo se enfrenta a una crisis sin precedentes: una grave sequía que está provocando la perdida de los colores. Una vez que acepta asumir el rol de salvadora de este mundo, Akane se embarca en una aventura inolvidable que cambiará su vida para siempre.</desc>
+    <episode-num system="xmltv_ns"></episode-num>
+  </programme>
+  <programme start="20251019060801 +0000" stop="20251019063557 +0000" channel="Anime Vision.es1">
+    <title>High Card</title>
+    <sub-title>Take back five</sub-title>
+    <desc>El joven Finn Oldman roba con el proposito de salvar el orfanato Sun Fields en el que se crio. Despues de negarse a desprenderse de una extraña carta en la casa de empeños, se dirige al casino, donde le aguarda un extraño destino.</desc>
+    <episode-num system="xmltv_ns">0.0/12.</episode-num>
+  </programme>
+  <programme start="20251019063557 +0000" stop="20251019070353 +0000" channel="Anime Vision.es1">
+    <title>High Card</title>
+    <sub-title>One Shot</sub-title>
+    <desc>Tras ser acorralado por Chris Redgrave, Finn se ve obligado a unirse al fabricante de automoviles Pinochle y se convierte en miembro de High Card. Los dos jovenes, que no se llevan bien, emprenden de inmediato su primera mision.</desc>
+    <episode-num system="xmltv_ns">0.1/12.</episode-num>
+  </programme>
+  <programme start="20251019070353 +0000" stop="20251019073150 +0000" channel="Anime Vision.es1">
+    <title>High Card</title>
+    <sub-title>Make a Choice</sub-title>
+    <desc>Finn logra rescatar a un joven que han secuestrado frente a sus ojos usando el poder de Neo New Nambu. Sin embargo, no pude quedarse callado ante la actitud del joven, que es descarado, irrespetuoso y extremadamente arrogante.</desc>
+    <episode-num system="xmltv_ns">0.2/12.</episode-num>
+  </programme>
+  <programme start="20251019073150 +0000" stop="20251019080001 +0000" channel="Anime Vision.es1">
+    <title>High Card</title>
+    <sub-title>Crazy Rich</sub-title>
+    <desc>Wendy lllega tarde despues de beber en la fiesta de bienvenida de Finn. Mientras piensa que así jamás podrá dominar la habilidad Love and Peace que heredo de su padre, un Player de Klondike pone en una situacion difícil a High Card.</desc>
+    <episode-num system="xmltv_ns">0.3/12.</episode-num>
+  </programme>
+</tv>
